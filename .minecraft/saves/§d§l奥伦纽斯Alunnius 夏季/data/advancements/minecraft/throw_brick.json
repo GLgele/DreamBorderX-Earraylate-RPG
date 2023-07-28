@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "attacked_by_zombie" :{
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "nbt": "{minecraft:\"snowball\"}"
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "minecraft:attacked_by_skeleton_clay"
+    }
+}

@@ -1,0 +1,4671 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jul 19, 2023, 12:36:36 PM
+
+#extshape:stained_terracotta_vertical_stairs
+- extshape:white_terracotta_vertical_stairs
+- extshape:orange_terracotta_vertical_stairs
+- extshape:magenta_terracotta_vertical_stairs
+- extshape:light_blue_terracotta_vertical_stairs
+- extshape:yellow_terracotta_vertical_stairs
+- extshape:lime_terracotta_vertical_stairs
+- extshape:pink_terracotta_vertical_stairs
+- extshape:gray_terracotta_vertical_stairs
+- extshape:light_gray_terracotta_vertical_stairs
+- extshape:cyan_terracotta_vertical_stairs
+- extshape:purple_terracotta_vertical_stairs
+- extshape:blue_terracotta_vertical_stairs
+- extshape:brown_terracotta_vertical_stairs
+- extshape:green_terracotta_vertical_stairs
+- extshape:red_terracotta_vertical_stairs
+- extshape:black_terracotta_vertical_stairs
+
+#minecraft:soul_fire_base_blocks
+- minecraft:soul_sand
+- minecraft:soul_soil
+
+#supplementaries:shulker_blacklist
+- #forge:shulker_boxes
+- supplementaries:safe
+- supplementaries:sack
+
+#extshape:wooden_vertical_slabs
+- extshape:oak_vertical_slab
+- extshape:spruce_vertical_slab
+- extshape:birch_vertical_slab
+- extshape:jungle_vertical_slab
+- extshape:acacia_vertical_slab
+- extshape:dark_oak_vertical_slab
+- extshape:crimson_vertical_slab
+- extshape:warped_vertical_slab
+
+#extshape:log_vertical_slabs
+- extshape:oak_log_vertical_slab
+- extshape:spruce_log_vertical_slab
+- extshape:birch_log_vertical_slab
+- extshape:jungle_log_vertical_slab
+- extshape:acacia_log_vertical_slab
+- extshape:dark_oak_log_vertical_slab
+- extshape:stripped_oak_log_vertical_slab
+- extshape:stripped_spruce_log_vertical_slab
+- extshape:stripped_birch_log_vertical_slab
+- extshape:stripped_jungle_log_vertical_slab
+- extshape:stripped_acacia_log_vertical_slab
+- extshape:stripped_dark_oak_log_vertical_slab
+- extshape:oak_wood_vertical_slab
+- extshape:spruce_wood_vertical_slab
+- extshape:birch_wood_vertical_slab
+- extshape:jungle_wood_vertical_slab
+- extshape:acacia_wood_vertical_slab
+- extshape:dark_oak_wood_vertical_slab
+- extshape:stripped_oak_wood_vertical_slab
+- extshape:stripped_spruce_wood_vertical_slab
+- extshape:stripped_birch_wood_vertical_slab
+- extshape:stripped_jungle_wood_vertical_slab
+- extshape:stripped_acacia_wood_vertical_slab
+- extshape:stripped_dark_oak_wood_vertical_slab
+- extshape:warped_stem_vertical_slab
+- extshape:crimson_stem_vertical_slab
+- extshape:stripped_warped_stem_vertical_slab
+- extshape:stripped_crimson_stem_vertical_slab
+- extshape:warped_hyphae_vertical_slab
+- extshape:crimson_hyphae_vertical_slab
+- extshape:stripped_warped_hyphae_vertical_slab
+- extshape:stripped_crimson_hyphae_vertical_slab
+
+#forge:glass_panes/magenta
+- minecraft:magenta_stained_glass_pane
+
+#forge:crops/flax
+- supplementaries:flax
+
+#forge:nuggets
+- #forge:nuggets/iron
+- #forge:nuggets/gold
+
+#supplementaries:chains
+- minecraft:chain
+- decorative_blocks:chain?
+- muchmoremodcompat:ice_chain?
+- muchmoremodcompat:gold_chain?
+- charm:gold_chain?
+- forbidden_arcanus:iron_chain?
+- decorative_winter:festive_chain?
+- forbidden_arcanus:arcane_golden_chain?
+
+#extshape:log_stairs
+- extshape:oak_log_stairs
+- extshape:spruce_log_stairs
+- extshape:birch_log_stairs
+- extshape:jungle_log_stairs
+- extshape:acacia_log_stairs
+- extshape:dark_oak_log_stairs
+- extshape:stripped_oak_log_stairs
+- extshape:stripped_spruce_log_stairs
+- extshape:stripped_birch_log_stairs
+- extshape:stripped_jungle_log_stairs
+- extshape:stripped_acacia_log_stairs
+- extshape:stripped_dark_oak_log_stairs
+- extshape:oak_wood_stairs
+- extshape:spruce_wood_stairs
+- extshape:birch_wood_stairs
+- extshape:jungle_wood_stairs
+- extshape:acacia_wood_stairs
+- extshape:dark_oak_wood_stairs
+- extshape:stripped_oak_wood_stairs
+- extshape:stripped_spruce_wood_stairs
+- extshape:stripped_birch_wood_stairs
+- extshape:stripped_jungle_wood_stairs
+- extshape:stripped_acacia_wood_stairs
+- extshape:stripped_dark_oak_wood_stairs
+- extshape:warped_stem_stairs
+- extshape:crimson_stem_stairs
+- extshape:stripped_warped_stem_stairs
+- extshape:stripped_crimson_stem_stairs
+- extshape:warped_hyphae_stairs
+- extshape:crimson_hyphae_stairs
+- extshape:stripped_warped_hyphae_stairs
+- extshape:stripped_crimson_hyphae_stairs
+
+#forge:eggs
+- minecraft:egg
+- minecraft:egg
+- minecraft:turtle_egg
+
+#forge:dyes/gray
+- minecraft:gray_dye
+
+#extshape:woolen_blocks
+- extshape:white_wool_stairs
+- extshape:white_wool_slab
+- extshape:white_wool_vertical_slab
+- extshape:white_wool_vertical_stairs
+- extshape:white_wool_quarter_piece
+- extshape:white_wool_vertical_quarter_piece
+- extshape:white_wool_fence
+- extshape:white_wool_fence_gate
+- extshape:white_wool_wall
+- extshape:white_wool_button
+- extshape:white_wool_pressure_plate
+- extshape:orange_wool_stairs
+- extshape:orange_wool_slab
+- extshape:orange_wool_vertical_slab
+- extshape:orange_wool_vertical_stairs
+- extshape:orange_wool_quarter_piece
+- extshape:orange_wool_vertical_quarter_piece
+- extshape:orange_wool_fence
+- extshape:orange_wool_fence_gate
+- extshape:orange_wool_wall
+- extshape:orange_wool_button
+- extshape:orange_wool_pressure_plate
+- extshape:magenta_wool_stairs
+- extshape:magenta_wool_slab
+- extshape:magenta_wool_vertical_slab
+- extshape:magenta_wool_vertical_stairs
+- extshape:magenta_wool_quarter_piece
+- extshape:magenta_wool_vertical_quarter_piece
+- extshape:magenta_wool_fence
+- extshape:magenta_wool_fence_gate
+- extshape:magenta_wool_wall
+- extshape:magenta_wool_button
+- extshape:magenta_wool_pressure_plate
+- extshape:light_blue_wool_stairs
+- extshape:light_blue_wool_slab
+- extshape:light_blue_wool_vertical_slab
+- extshape:light_blue_wool_vertical_stairs
+- extshape:light_blue_wool_quarter_piece
+- extshape:light_blue_wool_vertical_quarter_piece
+- extshape:light_blue_wool_fence
+- extshape:light_blue_wool_fence_gate
+- extshape:light_blue_wool_wall
+- extshape:light_blue_wool_button
+- extshape:light_blue_wool_pressure_plate
+- extshape:yellow_wool_stairs
+- extshape:yellow_wool_slab
+- extshape:yellow_wool_vertical_slab
+- extshape:yellow_wool_vertical_stairs
+- extshape:yellow_wool_quarter_piece
+- extshape:yellow_wool_vertical_quarter_piece
+- extshape:yellow_wool_fence
+- extshape:yellow_wool_fence_gate
+- extshape:yellow_wool_wall
+- extshape:yellow_wool_button
+- extshape:yellow_wool_pressure_plate
+- extshape:lime_wool_stairs
+- extshape:lime_wool_slab
+- extshape:lime_wool_vertical_slab
+- extshape:lime_wool_vertical_stairs
+- extshape:lime_wool_quarter_piece
+- extshape:lime_wool_vertical_quarter_piece
+- extshape:lime_wool_fence
+- extshape:lime_wool_fence_gate
+- extshape:lime_wool_wall
+- extshape:lime_wool_button
+- extshape:lime_wool_pressure_plate
+- extshape:pink_wool_stairs
+- extshape:pink_wool_slab
+- extshape:pink_wool_vertical_slab
+- extshape:pink_wool_vertical_stairs
+- extshape:pink_wool_quarter_piece
+- extshape:pink_wool_vertical_quarter_piece
+- extshape:pink_wool_fence
+- extshape:pink_wool_fence_gate
+- extshape:pink_wool_wall
+- extshape:pink_wool_button
+- extshape:pink_wool_pressure_plate
+- extshape:gray_wool_stairs
+- extshape:gray_wool_slab
+- extshape:gray_wool_vertical_slab
+- extshape:gray_wool_vertical_stairs
+- extshape:gray_wool_quarter_piece
+- extshape:gray_wool_vertical_quarter_piece
+- extshape:gray_wool_fence
+- extshape:gray_wool_fence_gate
+- extshape:gray_wool_wall
+- extshape:gray_wool_button
+- extshape:gray_wool_pressure_plate
+- extshape:light_gray_wool_stairs
+- extshape:light_gray_wool_slab
+- extshape:light_gray_wool_vertical_slab
+- extshape:light_gray_wool_vertical_stairs
+- extshape:light_gray_wool_quarter_piece
+- extshape:light_gray_wool_vertical_quarter_piece
+- extshape:light_gray_wool_fence
+- extshape:light_gray_wool_fence_gate
+- extshape:light_gray_wool_wall
+- extshape:light_gray_wool_button
+- extshape:light_gray_wool_pressure_plate
+- extshape:cyan_wool_stairs
+- extshape:cyan_wool_slab
+- extshape:cyan_wool_vertical_slab
+- extshape:cyan_wool_vertical_stairs
+- extshape:cyan_wool_quarter_piece
+- extshape:cyan_wool_vertical_quarter_piece
+- extshape:cyan_wool_fence
+- extshape:cyan_wool_fence_gate
+- extshape:cyan_wool_wall
+- extshape:cyan_wool_button
+- extshape:cyan_wool_pressure_plate
+- extshape:purple_wool_stairs
+- extshape:purple_wool_slab
+- extshape:purple_wool_vertical_slab
+- extshape:purple_wool_vertical_stairs
+- extshape:purple_wool_quarter_piece
+- extshape:purple_wool_vertical_quarter_piece
+- extshape:purple_wool_fence
+- extshape:purple_wool_fence_gate
+- extshape:purple_wool_wall
+- extshape:purple_wool_button
+- extshape:purple_wool_pressure_plate
+- extshape:blue_wool_stairs
+- extshape:blue_wool_slab
+- extshape:blue_wool_vertical_slab
+- extshape:blue_wool_vertical_stairs
+- extshape:blue_wool_quarter_piece
+- extshape:blue_wool_vertical_quarter_piece
+- extshape:blue_wool_fence
+- extshape:blue_wool_fence_gate
+- extshape:blue_wool_wall
+- extshape:blue_wool_button
+- extshape:blue_wool_pressure_plate
+- extshape:brown_wool_stairs
+- extshape:brown_wool_slab
+- extshape:brown_wool_vertical_slab
+- extshape:brown_wool_vertical_stairs
+- extshape:brown_wool_quarter_piece
+- extshape:brown_wool_vertical_quarter_piece
+- extshape:brown_wool_fence
+- extshape:brown_wool_fence_gate
+- extshape:brown_wool_wall
+- extshape:brown_wool_button
+- extshape:brown_wool_pressure_plate
+- extshape:green_wool_stairs
+- extshape:green_wool_slab
+- extshape:green_wool_vertical_slab
+- extshape:green_wool_vertical_stairs
+- extshape:green_wool_quarter_piece
+- extshape:green_wool_vertical_quarter_piece
+- extshape:green_wool_fence
+- extshape:green_wool_fence_gate
+- extshape:green_wool_wall
+- extshape:green_wool_button
+- extshape:green_wool_pressure_plate
+- extshape:red_wool_stairs
+- extshape:red_wool_slab
+- extshape:red_wool_vertical_slab
+- extshape:red_wool_vertical_stairs
+- extshape:red_wool_quarter_piece
+- extshape:red_wool_vertical_quarter_piece
+- extshape:red_wool_fence
+- extshape:red_wool_fence_gate
+- extshape:red_wool_wall
+- extshape:red_wool_button
+- extshape:red_wool_pressure_plate
+- extshape:black_wool_stairs
+- extshape:black_wool_slab
+- extshape:black_wool_vertical_slab
+- extshape:black_wool_vertical_stairs
+- extshape:black_wool_quarter_piece
+- extshape:black_wool_vertical_quarter_piece
+- extshape:black_wool_fence
+- extshape:black_wool_fence_gate
+- extshape:black_wool_wall
+- extshape:black_wool_button
+- extshape:black_wool_pressure_plate
+- #extshape:woolen_stairs
+- #extshape:woolen_slabs
+- #extshape:woolen_fences
+- #extshape:woolen_fence_gates
+- #extshape:woolen_walls
+- #extshape:woolen_buttons
+- #extshape:woolen_pressure_plates
+- #extshape:woolen_vertical_slabs
+- #extshape:woolen_quarter_pieces
+- #extshape:woolen_vertical_stairs
+- #extshape:woolen_vertical_quarter_pieces
+
+#forge:wooden_fences
+- ars_nouveau:archwood_fence
+
+#extshape:log_pressure_plates
+- extshape:oak_wood_pressure_plate
+- extshape:spruce_wood_pressure_plate
+- extshape:birch_wood_pressure_plate
+- extshape:jungle_wood_pressure_plate
+- extshape:acacia_wood_pressure_plate
+- extshape:dark_oak_wood_pressure_plate
+- extshape:stripped_oak_wood_pressure_plate
+- extshape:stripped_spruce_wood_pressure_plate
+- extshape:stripped_birch_wood_pressure_plate
+- extshape:stripped_jungle_wood_pressure_plate
+- extshape:stripped_acacia_wood_pressure_plate
+- extshape:stripped_dark_oak_wood_pressure_plate
+- extshape:warped_hyphae_pressure_plate
+- extshape:crimson_hyphae_pressure_plate
+- extshape:stripped_warped_hyphae_pressure_plate
+- extshape:stripped_crimson_hyphae_pressure_plate
+
+#forge:dyes/red
+- minecraft:red_dye
+
+#forge:rods/blaze
+- minecraft:blaze_rod
+
+#forge:storage_blocks/netherite
+- minecraft:netherite_block
+
+#forge:glass_panes/white
+- minecraft:white_stained_glass_pane
+
+#biomesoplenty:hellbark_logs
+- decorative_blocks:hellbark_beam
+
+#forge:gravel
+- minecraft:gravel
+
+#c:black_dyes
+- #forge:dyes/black
+
+#extshape:woolen_slabs
+- extshape:white_wool_slab
+- extshape:orange_wool_slab
+- extshape:magenta_wool_slab
+- extshape:light_blue_wool_slab
+- extshape:yellow_wool_slab
+- extshape:lime_wool_slab
+- extshape:pink_wool_slab
+- extshape:gray_wool_slab
+- extshape:light_gray_wool_slab
+- extshape:cyan_wool_slab
+- extshape:purple_wool_slab
+- extshape:blue_wool_slab
+- extshape:brown_wool_slab
+- extshape:green_wool_slab
+- extshape:red_wool_slab
+- extshape:black_wool_slab
+
+#forge:glass_panes/cyan
+- minecraft:cyan_stained_glass_pane
+
+#forge:dyes/black
+- minecraft:black_dye
+
+#extshape:log_fence_gates
+- extshape:oak_wood_fence_gate
+- extshape:spruce_wood_fence_gate
+- extshape:birch_wood_fence_gate
+- extshape:jungle_wood_fence_gate
+- extshape:acacia_wood_fence_gate
+- extshape:dark_oak_wood_fence_gate
+- extshape:stripped_oak_wood_fence_gate
+- extshape:stripped_spruce_wood_fence_gate
+- extshape:stripped_birch_wood_fence_gate
+- extshape:stripped_jungle_wood_fence_gate
+- extshape:stripped_acacia_wood_fence_gate
+- extshape:stripped_dark_oak_wood_fence_gate
+- extshape:warped_hyphae_fence_gate
+- extshape:crimson_hyphae_fence_gate
+- extshape:stripped_warped_hyphae_fence_gate
+- extshape:stripped_crimson_hyphae_fence_gate
+
+#biomesoplenty:magic_logs
+- decorative_blocks:magic_beam
+
+#forge:dusts/glowstone
+- minecraft:glowstone_dust
+
+#supplementaries:placeable_books
+- minecraft:book
+- minecraft:enchanted_book
+- inspirations:white_book?
+- inspirations:orange_book?
+- inspirations:magenta_book?
+- inspirations:light_blue_book?
+- inspirations:yellow_book?
+- inspirations:lime_book?
+- inspirations:pink_book?
+- inspirations:gray_book?
+- inspirations:light_gray_book?
+- inspirations:cyan_book?
+- inspirations:purple_book?
+- inspirations:blue_book?
+- inspirations:brown_book?
+- inspirations:green_book?
+- inspirations:red_book?
+- inspirations:black_book?
+
+#forge:glass_panes/light_gray
+- minecraft:light_gray_stained_glass_pane
+
+#minecraft:wool
+- minecraft:white_wool
+- minecraft:orange_wool
+- minecraft:magenta_wool
+- minecraft:light_blue_wool
+- minecraft:yellow_wool
+- minecraft:lime_wool
+- minecraft:pink_wool
+- minecraft:gray_wool
+- minecraft:light_gray_wool
+- minecraft:cyan_wool
+- minecraft:purple_wool
+- minecraft:blue_wool
+- minecraft:brown_wool
+- minecraft:green_wool
+- minecraft:red_wool
+- minecraft:black_wool
+
+#forge:glass/colorless
+- minecraft:glass
+
+#extshape:wooden_quarter_pieces
+- extshape:oak_quarter_piece
+- extshape:spruce_quarter_piece
+- extshape:birch_quarter_piece
+- extshape:jungle_quarter_piece
+- extshape:acacia_quarter_piece
+- extshape:dark_oak_quarter_piece
+- extshape:crimson_quarter_piece
+- extshape:warped_quarter_piece
+
+#extshape:log_quarter_pieces
+- extshape:oak_log_quarter_piece
+- extshape:spruce_log_quarter_piece
+- extshape:birch_log_quarter_piece
+- extshape:jungle_log_quarter_piece
+- extshape:acacia_log_quarter_piece
+- extshape:dark_oak_log_quarter_piece
+- extshape:stripped_oak_log_quarter_piece
+- extshape:stripped_spruce_log_quarter_piece
+- extshape:stripped_birch_log_quarter_piece
+- extshape:stripped_jungle_log_quarter_piece
+- extshape:stripped_acacia_log_quarter_piece
+- extshape:stripped_dark_oak_log_quarter_piece
+- extshape:oak_wood_quarter_piece
+- extshape:spruce_wood_quarter_piece
+- extshape:birch_wood_quarter_piece
+- extshape:jungle_wood_quarter_piece
+- extshape:acacia_wood_quarter_piece
+- extshape:dark_oak_wood_quarter_piece
+- extshape:stripped_oak_wood_quarter_piece
+- extshape:stripped_spruce_wood_quarter_piece
+- extshape:stripped_birch_wood_quarter_piece
+- extshape:stripped_jungle_wood_quarter_piece
+- extshape:stripped_acacia_wood_quarter_piece
+- extshape:stripped_dark_oak_wood_quarter_piece
+- extshape:warped_stem_quarter_piece
+- extshape:crimson_stem_quarter_piece
+- extshape:stripped_warped_stem_quarter_piece
+- extshape:stripped_crimson_stem_quarter_piece
+- extshape:warped_hyphae_quarter_piece
+- extshape:crimson_hyphae_quarter_piece
+- extshape:stripped_warped_hyphae_quarter_piece
+- extshape:stripped_crimson_hyphae_quarter_piece
+
+#forge:glass_panes/light_blue
+- minecraft:light_blue_stained_glass_pane
+
+#extshape:wooden_vertical_stairs
+- extshape:oak_vertical_stairs
+- extshape:spruce_vertical_stairs
+- extshape:birch_vertical_stairs
+- extshape:jungle_vertical_stairs
+- extshape:acacia_vertical_stairs
+- extshape:dark_oak_vertical_stairs
+- extshape:crimson_vertical_stairs
+- extshape:warped_vertical_stairs
+
+#supplementaries:hourglass_sands
+- #forge:sand?
+- #minecraft:sand
+- thermal:sawdust_block?
+- infernalexp:glowdust_sand?
+- create:limesand?
+
+#additionalbars:bars/metallic
+- minecraft:iron_bars
+- additionalbars:gold_bars
+- additionalbars:crossed_iron_bars
+- additionalbars:crossed_gold_bars
+- additionalbars:crossed_iron_bars
+- additionalbars:crossed_gold_bars
+
+#forge:ores/netherite_scrap
+- minecraft:ancient_debris
+
+#minecraft:crops
+- ars_nouveau:mana_bloom_crop
+- ars_nouveau:mana_bloom_crop
+
+#forge:fiber/flax
+- supplementaries:flax
+
+#forge:stained_glass
+- minecraft:white_stained_glass
+- minecraft:orange_stained_glass
+- minecraft:magenta_stained_glass
+- minecraft:light_blue_stained_glass
+- minecraft:yellow_stained_glass
+- minecraft:lime_stained_glass
+- minecraft:pink_stained_glass
+- minecraft:gray_stained_glass
+- minecraft:light_gray_stained_glass
+- minecraft:cyan_stained_glass
+- minecraft:purple_stained_glass
+- minecraft:blue_stained_glass
+- minecraft:brown_stained_glass
+- minecraft:green_stained_glass
+- minecraft:red_stained_glass
+- minecraft:black_stained_glass
+
+#forge:glass/pink
+- minecraft:pink_stained_glass
+
+#forge:crops/carrot
+- minecraft:carrot
+
+#forge:chests
+- #forge:chests/ender
+- #forge:chests/trapped
+- #forge:chests/wooden
+
+#forge:storage_blocks/emerald
+- minecraft:emerald_block
+
+#forge:ores/redstone
+- minecraft:redstone_ore
+
+#forge:nuggets/gold
+- minecraft:gold_nugget
+
+#minecraft:warped_stems
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- decorative_blocks:warped_beam
+
+#forge:nether_stars
+- minecraft:nether_star
+
+#forge:glass/red
+- minecraft:red_stained_glass
+
+#extshape:terracotta_fence_walls
+- extshape:terracotta_wall
+- #extshape:stained_terracotta_fence_walls
+
+#armourers_workshop:skinnable/shields
+- minecraft:shield
+
+#forge:dyes/blue
+- minecraft:blue_dye
+
+#forge:storage_blocks/iron
+- minecraft:iron_block
+
+#forge:ender_pearls
+- minecraft:ender_pearl
+
+#forge:glass_panes/brown
+- minecraft:brown_stained_glass_pane
+
+#extshape:terracotta_vertical_stairs
+- extshape:terracotta_vertical_stairs
+- #extshape:stained_terracotta_vertical_stairs
+
+#forge:seeds/mana_bloom
+- ars_nouveau:mana_bloom_crop
+
+#forge:heads
+- minecraft:creeper_head
+- minecraft:dragon_head
+- minecraft:player_head
+- minecraft:skeleton_skull
+- minecraft:wither_skeleton_skull
+- minecraft:zombie_head
+
+#forge:glass_panes/green
+- minecraft:green_stained_glass_pane
+
+#supplementaries:flower_box_plantable
+- #minecraft:saplings
+- #minecraft:flowers
+- minecraft:red_mushroom
+- minecraft:brown_mushroom
+- minecraft:sweet_berries
+- minecraft:warped_fungus
+- minecraft:crimson_fungus
+- minecraft:warped_roots
+- minecraft:crimson_roots
+- minecraft:fern
+- minecraft:bamboo
+- minecraft:dead_bush
+- minecraft:twisting_vines
+- minecraft:cactus
+- supplementaries:flax_seeds
+- #forge:mushrooms?
+- #forge:bushes?
+- #pokecube:berries?
+- bamboo_blocks:bamboo_torch?
+- bamboo_blocks:soul_bamboo_torch?
+- bamboo_blocks:ender_bamboo_torch?
+- abundance:saguaro_flower?
+- autumnity:foul_berries?
+- betterendforge:bushy_grass?
+- biomesoplenty:bush?
+- blue_skies:baneful_mushroom?
+- blue_skies:brewberry_bush?
+- blue_skies:briskbloom?
+- blue_skies:brumble?
+- blue_skies:snowcap_pinhead?
+- byg:blueberries?
+- byg:crimson_berries?
+- byg:ether_bush?
+- byg:flowering_indigo_jacaranda_bush?
+- byg:flowering_jacaranda_bush?
+- byg:imparius_bush?
+- byg:indigo_jacaranda_bush?
+- byg:jacaranda_bush?
+- byg:nightshade_berries?
+- byg:oddity_bush?
+- byg:scorched_bush?
+- byg:warped_bush?
+- byg:warped_coral?
+- byg:beach_grass?
+- byg:bulbis_sprouts?
+- byg:cattail?
+- byg:cryptic_bramble?
+- byg:embur_roots?
+- byg:embur_sprouts?
+- byg:embur_wart?
+- byg:ether_grass?
+- byg:fungal_imparius?
+- byg:horseweed?
+- byg:ivis_roots?
+- byg:ivis_sprout?
+- byg:mini_cactus?
+- byg:nightshade_roots?
+- byg:nightshade_sprouts?
+- byg:prairie_grass?
+- byg:prickly_pear_cactus?
+- byg:reeds?
+- byg:scorched_grass?
+- byg:short_beach_grass?
+- byg:short_grass?
+- byg:soul_shroom?
+- byg:sythian_roots?
+- byg:sythian_sprout?
+- byg:sythian_stalk_block?
+- byg:tall_crimson_roots?
+- byg:tall_embur_roots?
+- byg:tall_ether_grass?
+- byg:tall_prairie_grass?
+- byg:vermilion_sculk_tendrils?
+- byg:weed_grass?
+- byg:wilted_grass?
+- byg:winter_grass?
+- byg:winter_succulent?
+- cavesandcliffs:flowering_azalea?
+- cavesandcliffs:azalea?
+- endergetic:poise_bush?
+- endergetic:tall_poise_bush?
+- environmental:tall_dead_bush?
+- environmental:tall_cattail?
+- environmental:cattail?
+- environmental:cattail_sprouts?
+- farmersdelight:brown_mushroom_colony?
+- farmersdelight:red_mushroom_colony?
+- habitat:slime_fern?
+- habitat:orange_ball_cactus?
+- habitat:pink_ball_cactus?
+- habitat:rafflesia?
+- habitat:red_ball_cactus?
+- habitat:yellow_ball_cactus?
+- pokecube_legends:distortic_vines?
+- pokecube_legends:crystallized_bush?
+- pokecube_legends:crystallized_cactus?
+- pokecube_legends:tall_crystallized_bush?
+- simplefarming:blackberry_bush?
+- simplefarming:blueberry_bush?
+- simplefarming:cactus_crop?
+- simplefarming:raspberry_bush?
+- simplefarming:strawberry_bush?
+- cinderscapes:bramble_berries?
+- cinderscapes:crystinium?
+- cinderscapes:luminous_pod?
+- cinderscapes:photofern?
+- cinderscapes:pyracinth?
+- cinderscapes:scorched_shrub?
+- cinderscapes:scorched_sprouts?
+- cinderscapes:scorched_tendrils?
+- cinderscapes:tall_photofern?
+- cinderscapes:twilight_fescues?
+- cinderscapes:twilight_tendrils?
+- cinderscapes:umbral_fungus?
+- desolation:cinder_fruit_plant?
+- desolation:growing_cinder_fruit_plant?
+- desolation:scorched_tuft?
+- desolation:scorched_tuft_glowing?
+- desolation:scorched_tuft_medium?
+- desolation:scorched_tuft_small?
+- terrestria:agave?
+- terrestria:aloe_vera?
+- terrestria:bryce_sapling?
+- terrestria:dead_grass?
+- terrestria:saguaro_cactus_sapling?
+- terrestria:tiny_cactus?
+- forbidden_arcanus:nipa?
+- forbidden_arcanus:fungyss?
+- abundance:budding_jacaranda_hedge?
+- abundance:budding_redbud_hedge?
+- abundance:flowering_jacaranda_hedge?
+- abundance:flowering_redbud_hedge?
+- abundance:jacaranda_hedge?
+- abundance:redbud_hedge?
+- atmospheric:aspen_hedge?
+- atmospheric:flowering_morado_hedge?
+- atmospheric:grimwood_hedge?
+- atmospheric:kousa_hedge?
+- atmospheric:morado_hedge?
+- atmospheric:rosewood_hedge?
+- atmospheric:yucca_hedge?
+- atum:dry_grass?
+- atum:oasis_grass?
+- atum:papyrus_plant?
+- atum:shrub?
+- atum:tall_dry_grass?
+- atum:weed?
+- autumnity:maple_hedge?
+- autumnity:orange_maple_hedge?
+- autumnity:red_maple_hedge?
+- autumnity:yellow_maple_hedge?
+- bayou_blues:cypress_hedge?
+- bayou_blues:cypress_knee?
+- bayou_blues:giant_fern?
+- bayou_blues:large_cypress_knee?
+- betterendforge:aeridium?
+- betterendforge:amaranita_fur?
+- betterendforge:amber_grass?
+- betterendforge:amber_root_seed?
+- betterendforge:blooming_cooksonia?
+- betterendforge:blossom_berry_seed?
+- betterendforge:blue_vine_fur?
+- betterendforge:blue_vine_seed?
+- betterendforge:bolux_mushroom?
+- betterendforge:bubble_coral?
+- betterendforge:cave_grass?
+- betterendforge:charnia_cyan?
+- betterendforge:charnia_green?
+- betterendforge:charnia_light_blue?
+- betterendforge:charnia_orange?
+- betterendforge:charnia_purple?
+- betterendforge:charnia_red?
+- betterendforge:chorus_grass?
+- betterendforge:clawfern?
+- betterendforge:crystal_grass?
+- betterendforge:end_lily_seed?
+- betterendforge:end_lotus_seed?
+- betterendforge:end_lotus_stem?
+- betterendforge:filalux?
+- betterendforge:filalux_wings?
+- betterendforge:fracturn?
+- betterendforge:globulagus?
+- betterendforge:glowing_pillar_leaves?
+- betterendforge:glowing_pillar_seed?
+- betterendforge:glowing_pillar_seed?
+- betterendforge:hydralux_sapling?
+- betterendforge:jungle_grass?
+- betterendforge:lamellarium?
+- betterendforge:lanceleaf_seed?
+- betterendforge:lucernia_outer_leaves?
+- betterendforge:lumecorn_seed?
+- betterendforge:lutebus?
+- betterendforge:mossy_glowshroom_fur?
+- betterendforge:murkweed?
+- betterendforge:needlegrass?
+- betterendforge:neon_cactus?
+- betterendforge:orango?
+- betterendforge:pond_anemone?
+- betterendforge:salteago?
+- betterendforge:shadow_plant?
+- betterendforge:small_amaranita_mushroom?
+- betterendforge:small_jellyshroom?
+- betterendforge:smaragdant_crystal_shard?
+- betterendforge:sulphur_crystal?
+- betterendforge:tenanea_outer_leaves?
+- betterendforge:twisted_umbrella_moss?
+- betterendforge:twisted_umbrella_moss_tall?
+- betterendforge:vaiolush_fern?
+- betternether:agave?
+- betternether:black_apple_seed?
+- betternether:black_bush?
+- betternether:bone_grass?
+- betternether:egg_plant?
+- betternether:feather_fern?
+- betternether:giant_mold_sapling?
+- betternether:gray_mold?
+- betternether:ink_bush_seed?
+- betternether:jellyfish_mushroom_sapling?
+- betternether:jungle_plant?
+- betternether:magma_flower?
+- betternether:mushroom_fir_sapling?
+- betternether:mushroom_fir_stem?
+- betternether:mushroom_stem?
+- betternether:nether_cactus?
+- betternether:nether_grass?
+- betternether:nether_reed?
+- betternether:orange_mushroom?
+- betternether:red_mold?
+- betternether:red_mold?
+- betternether:rubeus_sapling?
+- betternether:sepia_bone_grass?
+- betternether:smoker?
+- betternether:soul_grass?
+- betternether:soul_lily_sapling?
+- betternether:stalagnate_seed?
+- betternether:stalagnate_stem?
+- betternether:swamp_grass?
+- betternether:wart_seed?
+- betternether:willow_sapling?
+- biomesoplenty:barley?
+- biomesoplenty:bramble?
+- biomesoplenty:cattail?
+- biomesoplenty:clover?
+- biomesoplenty:dead_grass?
+- biomesoplenty:desert_grass?
+- biomesoplenty:dune_grass?
+- biomesoplenty:mangrove_root?
+- biomesoplenty:reed?
+- biomesoplenty:sprout?
+- biomesoplenty:watergrass?
+- blue_skies:baneful_mushroom?
+- blue_skies:brumble_vine_top?
+- blue_skies:cherry_grass?
+- blue_skies:crystallized_grass?
+- blue_skies:glimmer_reed?
+- blue_skies:lunar_grass?
+- blue_skies:tall_lunar_grass?
+- blue_skies:tall_turquoise_grass?
+- blue_skies:turquoise_grass?
+- byg:blue_glowcane?
+- byg:blue_glowshroom?
+- byg:bulbis_anomaly?
+- byg:bulbis_oddity?
+- byg:lament_sprouts?
+- byg:nether_bristle?
+- byg:pink_glowcane?
+- byg:purple_bulbis_anomaly?
+- byg:purple_bulbis_oddity?
+- byg:purple_glowcane?
+- byg:purple_glowshroom?
+- byg:red_glowcane?
+- byg:warped_coral_fan?
+- byg:whaling_grass?
+- cavesandcliffs:big_dripleaf?
+- cavesandcliffs:small_dripleaf?
+- cfm:acacia_hedge?
+- cfm:birch_hedge?
+- cfm:dark_oak_hedge?
+- cfm:jungle_hedge?
+- cfm:oak_hedge?
+- cfm:spruce_hedge?
+- darkerdepths:detritus?
+- darkerdepths:dry_sprouts?
+- darkerdepths:glowshroom?
+- darkerdepths:glowspurs?
+- darkerdepths:lush_sprouts?
+- darkerdepths:mossy_sprouts?
+- decorative_winter:acacia_thin_branch?
+- decorative_winter:birch_thin_branch?
+- decorative_winter:crimson_thin_branch?
+- decorative_winter:dark_oak_thin_branch?
+- decorative_winter:dry_fern?
+- decorative_winter:dry_grass?
+- decorative_winter:dry_large_fern?
+- decorative_winter:dry_tall_grass?
+- decorative_winter:jungle_thin_branch?
+- decorative_winter:oak_thin_branch?
+- decorative_winter:spruce_thin_branch?
+- decorative_winter:warped_thin_branch?
+- earthmobsmod:buttercup?
+- endergetic:end_corrock?
+- endergetic:end_corrock_crown?
+- endergetic:nether_corrock?
+- endergetic:nether_corrock_crown?
+- endergetic:overworld_corrock?
+- endergetic:overworld_corrock_crown?
+- endreborn:end_coral?
+- endreborn:ogana_weed?
+- environmental:blue_wisteria_hedge?
+- environmental:cattail?
+- environmental:cattail_seeds?
+- environmental:cherry_hedge?
+- environmental:giant_tall_grass?
+- environmental:mycelium_sprouts?
+- environmental:pink_wisteria_hedge?
+- environmental:purple_wisteria_hedge?
+- environmental:tall_cattail?
+- environmental:white_wisteria_hedge?
+- environmental:willow_hedge?
+- fruitful:apple_oak_hedge?
+- fruitful:blossoming_oak_hedge?
+- fruitful:budding_oak_hedge?
+- fruitful:flowering_oak_hedge?
+- infernalexp:dullthorns?
+- infernalexp:luminous_fungus?
+- infernalexp:shroomlight_fungus?
+- jellyfishing:coral_plant?
+- jellyfishing:pineapple_seeds?
+- jellyfishing:seanut?
+- jellyfishing:tube_plant?
+- lotr:arid_grass?
+- lotr:blackroot?
+- lotr:clover?
+- lotr:dried_reeds?
+- lotr:fernsprout?
+- lotr:flowery_grass?
+- lotr:four_leaf_clover?
+- lotr:glowshroom?
+- lotr:mirk_shroom?
+- lotr:mordor_grass?
+- lotr:mordor_thorn?
+- lotr:morgul_shroom?
+- lotr:nettles?
+- lotr:papyrus?
+- lotr:pink_water_lily?
+- lotr:pipeweed_seeds?
+- lotr:purple_moor_grass?
+- lotr:purple_water_lily?
+- lotr:red_moor_grass?
+- lotr:reeds?
+- lotr:rushes?
+- lotr:short_grass?
+- lotr:tall_arid_grass?
+- lotr:tall_wheatgrass?
+- lotr:thistle?
+- lotr:wheatgrass?
+- lotr:white_water_lily?
+- lotr:wild_pipeweed?
+- lotr:yellow_water_lily?
+- malum:lavender?
+- malum:sun_kissed_grass?
+- malum:tall_sun_kissed_grass?
+- neapolitan:banana_frond?
+- neapolitan:large_banana_frond?
+- neapolitan:mint_sprout?
+- neapolitan:small_banana_frond?
+- neapolitan:vanilla_pods?
+- outer_end:azure_berries?
+- outer_end:azure_sprouts?
+- outer_end:cobalt_roots?
+- outer_end:ender_roots?
+- outer_end:mint_roots?
+- outer_end:rose_roots?
+- outer_end:tall_ender_roots?
+- quark:acacia_hedge?
+- quark:birch_hedge?
+- quark:blue_blossom_hedge?
+- quark:dark_oak_hedge?
+- quark:jungle_hedge?
+- quark:lavender_blossom_hedge?
+- quark:oak_hedge?
+- quark:orange_blossom_hedge?
+- quark:pink_blossom_hedge?
+- quark:red_blossom_hedge?
+- quark:spruce_hedge?
+- quark:yellow_blossom_hedge?
+- undergarden:ashen_deepturf?
+- undergarden:blisterberry?
+- undergarden:blood_mushroom?
+- undergarden:deepturf?
+- undergarden:frozen_deepturf?
+- undergarden:glowing_kelp?
+- undergarden:indigo_mushroom?
+- undergarden:ink_mushroom?
+- undergarden:shimmerweed?
+- undergarden:tall_deepturf?
+- undergarden:tall_shimmerweed?
+- undergarden:underbeans?
+- undergarden:veil_mushroom?
+- upgrade_aquatic:beachgrass?
+- upgrade_aquatic:blue_pickerelweed?
+- upgrade_aquatic:ochre_kelp?
+- upgrade_aquatic:polar_kelp?
+- upgrade_aquatic:purple_pickerelweed?
+- upgrade_aquatic:river_hedge?
+- upgrade_aquatic:tall_beachgrass?
+- upgrade_aquatic:thorny_kelp?
+- upgrade_aquatic:tongue_kelp?
+- dynamictreesplus:pillar_cactus_seed?
+- dynamictreesplus:pipe_cactus_seed?
+- dynamictreesplus:saguaro_cactus_seed?
+
+#armourers_workshop:skin_cubes
+- armourers_workshop:skin-cube
+- armourers_workshop:skin-cube-glass
+- armourers_workshop:skin-cube-glass-glowing
+- armourers_workshop:skin-cube-glowing
+
+#extshape:terracotta_vertical_slabs
+- extshape:terracotta_vertical_slab
+- #extshape:stained_terracotta_vertical_slabs
+
+#supplementaries:throwable_bricks
+- #forge:ingots/nether_brick
+- #forge:ingots/brick
+- unnamedanimalmod:dried_mud_brick?
+- unnamedanimalmod:mud_brick?
+- architects_palette:algal_brick?
+- architects_palette:sunmetal_brick?
+- ars_nouveau:arcane_brick?
+- biomesoplenty:mud_brick?
+- byg:yellow_nether_brick?
+- byg:blue_nether_brick?
+- endergetic:eumus_brick?
+- extcaves:brick_half?
+- extcaves:half_brick?
+- environmental:mud_brick?
+- createdeco:red_brick?
+- createdeco:worn_brick?
+- createdeco:dean_brick?
+- createdeco:blue_brick?
+- createdeco:dusk_brick?
+- createdeco:pearl_brick?
+
+#forge:fiber
+- supplementaries:flax
+
+#forge:chests/trapped
+- minecraft:trapped_chest
+
+#forge:fence_gates
+- #forge:fence_gates/wooden
+
+#curios:an_focus
+- ars_nouveau:summon_focus
+
+#forge:ingots
+- #forge:ingots/iron
+- #forge:ingots/gold
+- #forge:ingots/brick
+- #forge:ingots/nether_brick
+- #forge:ingots/netherite
+
+#minecraft:dark_oak_logs
+- minecraft:dark_oak_log
+- minecraft:dark_oak_wood
+- minecraft:stripped_dark_oak_log
+- minecraft:stripped_dark_oak_wood
+- decorative_blocks:dark_oak_beam
+
+#forge:bones
+- minecraft:bone
+
+#supplementaries:ropes
+- supplementaries:rope
+- quark:rope?
+- xercamod:rope?
+- druidcraft:rope?
+- inspirations:vine?
+- inspirations:rope?
+- farmersdelight:rope?
+- darkerdepths:rope?
+
+#forge:planks
+- ars_nouveau:archwood_planks
+
+#forge:glass_panes
+- #forge:glass_panes/colorless
+- #forge:stained_glass_panes
+
+#minecraft:non_flammable_wood
+- minecraft:warped_stem
+- minecraft:stripped_warped_stem
+- minecraft:warped_hyphae
+- minecraft:stripped_warped_hyphae
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- minecraft:crimson_button
+- minecraft:warped_button
+- minecraft:crimson_door
+- minecraft:warped_door
+- minecraft:crimson_sign
+- minecraft:warped_sign
+- additionalbars:crimson_bars
+- additionalbars:warped_bars
+- additionalbars:crossed_crimson_bars
+- additionalbars:crossed_warped_bars
+- additionalbars:horizontal_crimson_bars
+- additionalbars:horizontal_warped_bars
+- additionalbars:horizontal_crossed_crimson_bars
+- additionalbars:horizontal_crossed_warped_bars
+- decorative_blocks:crimson_beam
+- decorative_blocks:crimson_seat
+- decorative_blocks:crimson_support
+- decorative_blocks:warped_palisade
+- decorative_blocks:warped_seat
+- decorative_blocks:warped_support
+- decorative_blocks:warped_palisade
+- extshape:warped_stem_stairs
+- extshape:warped_stem_slab
+- extshape:warped_stem_vertical_slab
+- extshape:warped_stem_vertical_stairs
+- extshape:warped_stem_quarter_piece
+- extshape:warped_stem_vertical_quarter_piece
+- extshape:crimson_stem_stairs
+- extshape:crimson_stem_slab
+- extshape:crimson_stem_vertical_slab
+- extshape:crimson_stem_vertical_stairs
+- extshape:crimson_stem_quarter_piece
+- extshape:crimson_stem_vertical_quarter_piece
+- extshape:stripped_warped_stem_stairs
+- extshape:stripped_warped_stem_slab
+- extshape:stripped_warped_stem_vertical_slab
+- extshape:stripped_warped_stem_vertical_stairs
+- extshape:stripped_warped_stem_quarter_piece
+- extshape:stripped_warped_stem_vertical_quarter_piece
+- extshape:stripped_crimson_stem_stairs
+- extshape:stripped_crimson_stem_slab
+- extshape:stripped_crimson_stem_vertical_slab
+- extshape:stripped_crimson_stem_vertical_stairs
+- extshape:stripped_crimson_stem_quarter_piece
+- extshape:stripped_crimson_stem_vertical_quarter_piece
+- extshape:warped_hyphae_stairs
+- extshape:warped_hyphae_slab
+- extshape:warped_hyphae_vertical_slab
+- extshape:warped_hyphae_vertical_stairs
+- extshape:warped_hyphae_quarter_piece
+- extshape:warped_hyphae_vertical_quarter_piece
+- extshape:warped_hyphae_fence
+- extshape:warped_hyphae_fence_gate
+- extshape:warped_hyphae_wall
+- extshape:warped_hyphae_button
+- extshape:warped_hyphae_pressure_plate
+- extshape:crimson_hyphae_stairs
+- extshape:crimson_hyphae_slab
+- extshape:crimson_hyphae_vertical_slab
+- extshape:crimson_hyphae_vertical_stairs
+- extshape:crimson_hyphae_quarter_piece
+- extshape:crimson_hyphae_vertical_quarter_piece
+- extshape:crimson_hyphae_fence
+- extshape:crimson_hyphae_fence_gate
+- extshape:crimson_hyphae_wall
+- extshape:crimson_hyphae_button
+- extshape:crimson_hyphae_pressure_plate
+- extshape:stripped_warped_hyphae_stairs
+- extshape:stripped_warped_hyphae_slab
+- extshape:stripped_warped_hyphae_vertical_slab
+- extshape:stripped_warped_hyphae_vertical_stairs
+- extshape:stripped_warped_hyphae_quarter_piece
+- extshape:stripped_warped_hyphae_vertical_quarter_piece
+- extshape:stripped_warped_hyphae_fence
+- extshape:stripped_warped_hyphae_fence_gate
+- extshape:stripped_warped_hyphae_wall
+- extshape:stripped_warped_hyphae_button
+- extshape:stripped_warped_hyphae_pressure_plate
+- extshape:stripped_crimson_hyphae_stairs
+- extshape:stripped_crimson_hyphae_slab
+- extshape:stripped_crimson_hyphae_vertical_slab
+- extshape:stripped_crimson_hyphae_vertical_stairs
+- extshape:stripped_crimson_hyphae_quarter_piece
+- extshape:stripped_crimson_hyphae_vertical_quarter_piece
+- extshape:stripped_crimson_hyphae_fence
+- extshape:stripped_crimson_hyphae_fence_gate
+- extshape:stripped_crimson_hyphae_wall
+- extshape:stripped_crimson_hyphae_button
+- extshape:stripped_crimson_hyphae_pressure_plate
+- extshape:crimson_vertical_slab
+- extshape:crimson_vertical_stairs
+- extshape:crimson_quarter_piece
+- extshape:crimson_vertical_quarter_piece
+- extshape:crimson_wall
+- extshape:warped_vertical_slab
+- extshape:warped_vertical_stairs
+- extshape:warped_quarter_piece
+- extshape:warped_vertical_quarter_piece
+- extshape:warped_wall
+
+#forge:crops/nether_wart
+- minecraft:nether_wart
+
+#forge:sandstone
+- minecraft:sandstone
+- minecraft:cut_sandstone
+- minecraft:chiseled_sandstone
+- minecraft:smooth_sandstone
+- minecraft:red_sandstone
+- minecraft:cut_red_sandstone
+- minecraft:chiseled_red_sandstone
+- minecraft:smooth_red_sandstone
+
+#forge:glass_panes/colorless
+- minecraft:glass_pane
+
+#minecraft:coals
+- minecraft:coal
+- minecraft:charcoal
+
+#supplementaries:deepslate
+- quark:deepslate?
+- cavesandcliffs:deepslate?
+- caves_and_cliffs_mod:cavesandcliffs?
+
+#supplementaries:pedestal_downright
+- minecraft:trident
+
+#cfm:kitchen
+- cfm:oak_kitchen_counter
+- cfm:spruce_kitchen_counter
+- cfm:birch_kitchen_counter
+- cfm:jungle_kitchen_counter
+- cfm:acacia_kitchen_counter
+- cfm:dark_oak_kitchen_counter
+- cfm:stripped_oak_kitchen_counter
+- cfm:stripped_spruce_kitchen_counter
+- cfm:stripped_birch_kitchen_counter
+- cfm:stripped_jungle_kitchen_counter
+- cfm:stripped_acacia_kitchen_counter
+- cfm:stripped_dark_oak_kitchen_counter
+- cfm:white_kitchen_counter
+- cfm:orange_kitchen_counter
+- cfm:magenta_kitchen_counter
+- cfm:light_blue_kitchen_counter
+- cfm:yellow_kitchen_counter
+- cfm:lime_kitchen_counter
+- cfm:pink_kitchen_counter
+- cfm:gray_kitchen_counter
+- cfm:light_gray_kitchen_counter
+- cfm:cyan_kitchen_counter
+- cfm:purple_kitchen_counter
+- cfm:blue_kitchen_counter
+- cfm:brown_kitchen_counter
+- cfm:green_kitchen_counter
+- cfm:red_kitchen_counter
+- cfm:black_kitchen_counter
+- cfm:oak_kitchen_drawer
+- cfm:spruce_kitchen_drawer
+- cfm:birch_kitchen_drawer
+- cfm:jungle_kitchen_drawer
+- cfm:acacia_kitchen_drawer
+- cfm:dark_oak_kitchen_drawer
+- cfm:stripped_oak_kitchen_drawer
+- cfm:stripped_spruce_kitchen_drawer
+- cfm:stripped_birch_kitchen_drawer
+- cfm:stripped_jungle_kitchen_drawer
+- cfm:stripped_acacia_kitchen_drawer
+- cfm:stripped_dark_oak_kitchen_drawer
+- cfm:white_kitchen_drawer
+- cfm:orange_kitchen_drawer
+- cfm:magenta_kitchen_drawer
+- cfm:light_blue_kitchen_drawer
+- cfm:yellow_kitchen_drawer
+- cfm:lime_kitchen_drawer
+- cfm:pink_kitchen_drawer
+- cfm:gray_kitchen_drawer
+- cfm:light_gray_kitchen_drawer
+- cfm:cyan_kitchen_drawer
+- cfm:purple_kitchen_drawer
+- cfm:blue_kitchen_drawer
+- cfm:brown_kitchen_drawer
+- cfm:green_kitchen_drawer
+- cfm:red_kitchen_drawer
+- cfm:black_kitchen_drawer
+- cfm:spatula
+- cfm:oak_kitchen_sink_light
+- cfm:spruce_kitchen_sink_light
+- cfm:birch_kitchen_sink_light
+- cfm:jungle_kitchen_sink_light
+- cfm:acacia_kitchen_sink_light
+- cfm:dark_oak_kitchen_sink_light
+- cfm:stripped_oak_kitchen_sink_light
+- cfm:stripped_spruce_kitchen_sink_light
+- cfm:stripped_birch_kitchen_sink_light
+- cfm:stripped_jungle_kitchen_sink_light
+- cfm:stripped_acacia_kitchen_sink_light
+- cfm:stripped_dark_oak_kitchen_sink_light
+- cfm:oak_kitchen_sink_dark
+- cfm:spruce_kitchen_sink_dark
+- cfm:birch_kitchen_sink_dark
+- cfm:jungle_kitchen_sink_dark
+- cfm:acacia_kitchen_sink_dark
+- cfm:dark_oak_kitchen_sink_dark
+- cfm:stripped_oak_kitchen_sink_dark
+- cfm:stripped_spruce_kitchen_sink_dark
+- cfm:stripped_birch_kitchen_sink_dark
+- cfm:stripped_jungle_kitchen_sink_dark
+- cfm:stripped_acacia_kitchen_sink_dark
+- cfm:stripped_dark_oak_kitchen_sink_dark
+- cfm:white_kitchen_sink
+- cfm:orange_kitchen_sink
+- cfm:magenta_kitchen_sink
+- cfm:light_blue_kitchen_sink
+- cfm:yellow_kitchen_sink
+- cfm:lime_kitchen_sink
+- cfm:pink_kitchen_sink
+- cfm:gray_kitchen_sink
+- cfm:light_gray_kitchen_sink
+- cfm:cyan_kitchen_sink
+- cfm:purple_kitchen_sink
+- cfm:blue_kitchen_sink
+- cfm:brown_kitchen_sink
+- cfm:green_kitchen_sink
+- cfm:red_kitchen_sink
+- cfm:black_kitchen_sink
+
+#forge:mushrooms
+- minecraft:brown_mushroom
+- minecraft:red_mushroom
+
+#extshape:woolen_vertical_quarter_pieces
+- extshape:white_wool_vertical_quarter_piece
+- extshape:orange_wool_vertical_quarter_piece
+- extshape:magenta_wool_vertical_quarter_piece
+- extshape:light_blue_wool_vertical_quarter_piece
+- extshape:yellow_wool_vertical_quarter_piece
+- extshape:lime_wool_vertical_quarter_piece
+- extshape:pink_wool_vertical_quarter_piece
+- extshape:gray_wool_vertical_quarter_piece
+- extshape:light_gray_wool_vertical_quarter_piece
+- extshape:cyan_wool_vertical_quarter_piece
+- extshape:purple_wool_vertical_quarter_piece
+- extshape:blue_wool_vertical_quarter_piece
+- extshape:brown_wool_vertical_quarter_piece
+- extshape:green_wool_vertical_quarter_piece
+- extshape:red_wool_vertical_quarter_piece
+- extshape:black_wool_vertical_quarter_piece
+
+#forge:ingots/nether_brick
+- minecraft:nether_brick
+
+#c:green_dyes
+- #forge:dyes/green
+
+#forge:ingots/netherite
+- minecraft:netherite_ingot
+
+#minecraft:fences
+- #minecraft:wooden_fences
+- minecraft:nether_brick_fence
+- ars_nouveau:archwood_fence
+- extshape:stone_fence
+- extshape:granite_fence
+- extshape:polished_granite_fence
+- extshape:diorite_fence
+- extshape:polished_diorite_fence
+- extshape:andesite_fence
+- extshape:polished_andesite_fence
+- extshape:dirt_fence
+- extshape:coarse_dirt_fence
+- extshape:cobblestone_fence
+- extshape:bedrock_fence
+- extshape:lapis_fence
+- extshape:smooth_sandstone_fence
+- extshape:smooth_red_sandstone_fence
+- extshape:gold_fence
+- extshape:iron_fence
+- extshape:brick_fence
+- extshape:mossy_cobblestone_fence
+- extshape:obsidian_fence
+- extshape:diamond_fence
+- extshape:snow_fence
+- extshape:clay_fence
+- extshape:pumpkin_fence
+- extshape:netherrack_fence
+- extshape:glowstone_fence
+- extshape:stone_brick_fence
+- extshape:mossy_stone_brick_fence
+- extshape:chiseled_stone_brick_fence
+- extshape:melon_fence
+- extshape:end_stone_fence
+- extshape:emerald_fence
+- extshape:quartz_fence
+- extshape:chiseled_quartz_fence
+- extshape:quartz_brick_fence
+- extshape:smooth_quartz_fence
+- extshape:red_nether_brick_fence
+- extshape:coal_fence
+- extshape:packed_ice_fence
+- extshape:prismarine_fence
+- extshape:prismarine_brick_fence
+- extshape:dark_prismarine_fence
+- extshape:smooth_stone_fence
+- extshape:purpur_fence
+- extshape:nether_wart_fence
+- extshape:warped_wart_fence
+- extshape:shroomlight_fence
+- extshape:honeycomb_fence
+- extshape:netherite_fence
+- extshape:ancient_debris_fence
+- extshape:crying_obsidian_fence
+- extshape:basalt_fence
+- extshape:polished_basalt_fence
+- #extshape:log_fences
+- #extshape:woolen_fences
+- #extshape:concrete_fences
+- #extshape:terracotta_fences
+
+#minecraft:saplings
+- minecraft:oak_sapling
+- minecraft:spruce_sapling
+- minecraft:birch_sapling
+- minecraft:jungle_sapling
+- minecraft:acacia_sapling
+- minecraft:dark_oak_sapling
+- ars_nouveau:blue_archwood_sapling
+- ars_nouveau:red_archwood_sapling
+- ars_nouveau:green_archwood_sapling
+- ars_nouveau:purple_archwood_sapling
+
+#extshape:concrete_vertical_slabs
+- extshape:white_concrete_vertical_slab
+- extshape:orange_concrete_vertical_slab
+- extshape:magenta_concrete_vertical_slab
+- extshape:light_blue_concrete_vertical_slab
+- extshape:yellow_concrete_vertical_slab
+- extshape:lime_concrete_vertical_slab
+- extshape:pink_concrete_vertical_slab
+- extshape:gray_concrete_vertical_slab
+- extshape:light_gray_concrete_vertical_slab
+- extshape:cyan_concrete_vertical_slab
+- extshape:purple_concrete_vertical_slab
+- extshape:blue_concrete_vertical_slab
+- extshape:brown_concrete_vertical_slab
+- extshape:green_concrete_vertical_slab
+- extshape:red_concrete_vertical_slab
+- extshape:black_concrete_vertical_slab
+
+#forge:storage_blocks/lapis
+- minecraft:lapis_block
+
+#minecraft:beds
+- minecraft:red_bed
+- minecraft:black_bed
+- minecraft:blue_bed
+- minecraft:brown_bed
+- minecraft:cyan_bed
+- minecraft:gray_bed
+- minecraft:green_bed
+- minecraft:light_blue_bed
+- minecraft:light_gray_bed
+- minecraft:lime_bed
+- minecraft:magenta_bed
+- minecraft:orange_bed
+- minecraft:pink_bed
+- minecraft:purple_bed
+- minecraft:white_bed
+- minecraft:yellow_bed
+
+#extshape:woolen_walls
+- extshape:white_wool_wall
+- extshape:orange_wool_wall
+- extshape:magenta_wool_wall
+- extshape:light_blue_wool_wall
+- extshape:yellow_wool_wall
+- extshape:lime_wool_wall
+- extshape:pink_wool_wall
+- extshape:gray_wool_wall
+- extshape:light_gray_wool_wall
+- extshape:cyan_wool_wall
+- extshape:purple_wool_wall
+- extshape:blue_wool_wall
+- extshape:brown_wool_wall
+- extshape:green_wool_wall
+- extshape:red_wool_wall
+- extshape:black_wool_wall
+
+#forge:ores/diamond
+- minecraft:diamond_ore
+
+#forge:seeds/beetroot
+- minecraft:beetroot_seeds
+
+#minecraft:doors
+- #minecraft:wooden_doors
+- minecraft:iron_door
+- supplementaries:gold_door
+- supplementaries:netherite_door
+- ars_nouveau:archwood_door
+
+#cfm:fence_gates/picket
+- cfm:white_picket_gate
+- cfm:orange_picket_gate
+- cfm:magenta_picket_gate
+- cfm:light_blue_picket_gate
+- cfm:yellow_picket_gate
+- cfm:lime_picket_gate
+- cfm:pink_picket_gate
+- cfm:gray_picket_gate
+- cfm:light_gray_picket_gate
+- cfm:cyan_picket_gate
+- cfm:purple_picket_gate
+- cfm:blue_picket_gate
+- cfm:brown_picket_gate
+- cfm:green_picket_gate
+- cfm:red_picket_gate
+- cfm:black_picket_gate
+
+#supplementaries:hourglass_dusts
+- minecraft:gunpowder
+- #forge:dusts
+- #forge:dusts?
+- darkerdepths:ash?
+- thermal:sawdust?
+- immersiveengineering:dust_wood?
+- immersiveengineering:dust_saltpeter?
+- earthworks:chalk_dust?
+- earthworks:sand_pile?
+- eidolon:enchanted_ash?
+- eidolon:ender_calx?
+- shretnether:ashpile?
+- infernalexp:moth_dust?
+- infernalexp:glowdust_sand?
+- infernalexp:basalt_silt?
+- create:powdered_obsidian?
+- feywild:fey_dust?
+- create:cinder_flour?
+- create:powdered_obsidian?
+- waystones:warp_dust?
+- nether_extension:ash?
+- potionmaster:coal_powder?
+- potionmaster:charcoal_powder?
+- potionmaster:diamond_powder?
+- potionmaster:emerald_powder?
+- potionmaster:redstone_powder?
+- potionmaster:gold_powder?
+- potionmaster:iron_powder?
+- potionmaster:lapis_powder?
+- potionmaster:aluminum_powder?
+- potionmaster:copper_powder?
+- potionmaster:tin_powder?
+- potionmaster:nicker_powder?
+- potionmaster:ender_powder?
+- potionmaster:uranium_powder?
+- potionmaster:lead_powder?
+- potionmaster:silver_powder?
+- potionmaster:zinc_powder?
+- potionmaster:osmium_powder?
+- potionmaster:quartz_powder?
+- potionmaster:bismuth_powder?
+- potionmaster:crimsoniron_powder?
+- potionmaster:platinum_powder?
+- potionmaster:allthemodium_powder?
+- potionmaster:vibranium_powder?
+- potionmaster:unobtanium_powder?
+- potionmaster:netherite_powder?
+- potionmaster:calcinatedcoal_powder?
+- potionmaster:calcinatedcharcoal_powder?
+- potionmaster:calcinateddiamond_powder?
+- potionmaster:calcinatedemerald_powder?
+- potionmaster:calcinatedredstone_powder?
+- potionmaster:calcinatedgold_powder?
+- potionmaster:calcinatediron_powder?
+- potionmaster:calcinatedlapis_powder?
+- potionmaster:calcinatedaluminum_powder?
+- potionmaster:calcinatedcopper_powder?
+- potionmaster:calcinatedtin_powder?
+- potionmaster:calcinatednicker_powder?
+- potionmaster:calcinatedender_powder?
+- potionmaster:calcinateduranium_powder?
+- potionmaster:calcinatedlead_powder?
+- potionmaster:calcinatedsilver_powder?
+- potionmaster:calcinatedzinc_powder?
+- potionmaster:calcinatedosmium_powder?
+- potionmaster:calcinatedquartz_powder?
+- potionmaster:calcinatedbismuth_powder?
+- potionmaster:calcinatedcrimsoniron_powder?
+- potionmaster:calcinatedplatinum_powder?
+- potionmaster:calcinatedallthemodium_powder?
+- potionmaster:calcinatedvibranium_powder?
+- potionmaster:calcinatedunobtanium_powder?
+- potionmaster:calcinatednetherite_powder?
+
+#extshape:glazed_terracotta_slabs
+- extshape:white_glazed_terracotta_slab
+- extshape:orange_glazed_terracotta_slab
+- extshape:magenta_glazed_terracotta_slab
+- extshape:light_blue_glazed_terracotta_slab
+- extshape:yellow_glazed_terracotta_slab
+- extshape:lime_glazed_terracotta_slab
+- extshape:pink_glazed_terracotta_slab
+- extshape:gray_glazed_terracotta_slab
+- extshape:light_gray_glazed_terracotta_slab
+- extshape:cyan_glazed_terracotta_slab
+- extshape:purple_glazed_terracotta_slab
+- extshape:blue_glazed_terracotta_slab
+- extshape:brown_glazed_terracotta_slab
+- extshape:green_glazed_terracotta_slab
+- extshape:red_glazed_terracotta_slab
+- extshape:black_glazed_terracotta_slab
+
+#minecraft:banners
+- minecraft:white_banner
+- minecraft:orange_banner
+- minecraft:magenta_banner
+- minecraft:light_blue_banner
+- minecraft:yellow_banner
+- minecraft:lime_banner
+- minecraft:pink_banner
+- minecraft:gray_banner
+- minecraft:light_gray_banner
+- minecraft:cyan_banner
+- minecraft:purple_banner
+- minecraft:blue_banner
+- minecraft:brown_banner
+- minecraft:green_banner
+- minecraft:red_banner
+- minecraft:black_banner
+
+#minecraft:wooden_fences
+- minecraft:oak_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- ars_nouveau:archwood_fence
+
+#forge:dyes/orange
+- minecraft:orange_dye
+
+#forge:obsidian
+- minecraft:obsidian
+
+#curios:necklace
+- curios:amulet
+- ars_nouveau:amulet_of_mana_boost
+- ars_nouveau:amulet_of_mana_regen
+
+#cfm:storage
+- cfm:oak_cabinet
+- cfm:spruce_cabinet
+- cfm:birch_cabinet
+- cfm:jungle_cabinet
+- cfm:acacia_cabinet
+- cfm:dark_oak_cabinet
+- cfm:stripped_oak_cabinet
+- cfm:stripped_spruce_cabinet
+- cfm:stripped_birch_cabinet
+- cfm:stripped_jungle_cabinet
+- cfm:stripped_acacia_cabinet
+- cfm:stripped_dark_oak_cabinet
+- cfm:oak_bedside_cabinet
+- cfm:spruce_bedside_cabinet
+- cfm:birch_bedside_cabinet
+- cfm:jungle_bedside_cabinet
+- cfm:acacia_bedside_cabinet
+- cfm:dark_oak_bedside_cabinet
+- cfm:stripped_oak_bedside_cabinet
+- cfm:stripped_spruce_bedside_cabinet
+- cfm:stripped_birch_bedside_cabinet
+- cfm:stripped_jungle_bedside_cabinet
+- cfm:stripped_acacia_bedside_cabinet
+- cfm:stripped_dark_oak_bedside_cabinet
+- cfm:oak_desk_cabinet
+- cfm:spruce_desk_cabinet
+- cfm:birch_desk_cabinet
+- cfm:jungle_desk_cabinet
+- cfm:acacia_desk_cabinet
+- cfm:dark_oak_desk_cabinet
+- cfm:stone_desk_cabinet
+- cfm:granite_desk_cabinet
+- cfm:diorite_desk_cabinet
+- cfm:andesite_desk_cabinet
+- cfm:stripped_oak_desk_cabinet
+- cfm:stripped_spruce_desk_cabinet
+- cfm:stripped_birch_desk_cabinet
+- cfm:stripped_jungle_desk_cabinet
+- cfm:stripped_acacia_desk_cabinet
+- cfm:stripped_dark_oak_desk_cabinet
+- cfm:oak_crate
+- cfm:spruce_crate
+- cfm:birch_crate
+- cfm:jungle_crate
+- cfm:acacia_crate
+- cfm:dark_oak_crate
+- cfm:stripped_oak_crate
+- cfm:stripped_spruce_crate
+- cfm:stripped_birch_crate
+- cfm:stripped_jungle_crate
+- cfm:stripped_acacia_crate
+- cfm:stripped_dark_oak_crate
+- cfm:oak_mail_box
+- cfm:spruce_mail_box
+- cfm:birch_mail_box
+- cfm:jungle_mail_box
+- cfm:acacia_mail_box
+- cfm:dark_oak_mail_box
+- cfm:stripped_oak_mail_box
+- cfm:stripped_spruce_mail_box
+- cfm:stripped_birch_mail_box
+- cfm:stripped_jungle_mail_box
+- cfm:stripped_acacia_mail_box
+- cfm:stripped_dark_oak_mail_box
+- cfm:white_cooler
+- cfm:orange_cooler
+- cfm:magenta_cooler
+- cfm:light_blue_cooler
+- cfm:yellow_cooler
+- cfm:lime_cooler
+- cfm:pink_cooler
+- cfm:gray_cooler
+- cfm:light_gray_cooler
+- cfm:cyan_cooler
+- cfm:purple_cooler
+- cfm:blue_cooler
+- cfm:brown_cooler
+- cfm:green_cooler
+- cfm:red_cooler
+- cfm:black_cooler
+- cfm:oak_park_bench
+- cfm:spruce_park_bench
+- cfm:birch_park_bench
+- cfm:jungle_park_bench
+- cfm:acacia_park_bench
+- cfm:dark_oak_park_bench
+- cfm:stripped_oak_park_bench
+- cfm:stripped_spruce_park_bench
+- cfm:stripped_birch_park_bench
+- cfm:stripped_jungle_park_bench
+- cfm:stripped_acacia_park_bench
+- cfm:stripped_dark_oak_park_bench
+- cfm:post_box
+- cfm:oak_mail_box
+- cfm:spruce_mail_box
+- cfm:birch_mail_box
+- cfm:jungle_mail_box
+- cfm:acacia_mail_box
+- cfm:dark_oak_mail_box
+- cfm:stripped_oak_mail_box
+- cfm:stripped_spruce_mail_box
+- cfm:stripped_birch_mail_box
+- cfm:stripped_jungle_mail_box
+- cfm:stripped_acacia_mail_box
+- cfm:stripped_dark_oak_mail_box
+- cfm:white_cooler
+- cfm:orange_cooler
+- cfm:magenta_cooler
+- cfm:light_blue_cooler
+- cfm:yellow_cooler
+- cfm:lime_cooler
+- cfm:pink_cooler
+- cfm:gray_cooler
+- cfm:light_gray_cooler
+- cfm:cyan_cooler
+- cfm:purple_cooler
+- cfm:blue_cooler
+- cfm:brown_cooler
+- cfm:green_cooler
+- cfm:red_cooler
+- cfm:black_cooler
+- cfm:oak_kitchen_drawer
+- cfm:spruce_kitchen_drawer
+- cfm:birch_kitchen_drawer
+- cfm:jungle_kitchen_drawer
+- cfm:acacia_kitchen_drawer
+- cfm:dark_oak_kitchen_drawer
+- cfm:stripped_oak_kitchen_drawer
+- cfm:stripped_spruce_kitchen_drawer
+- cfm:stripped_birch_kitchen_drawer
+- cfm:stripped_jungle_kitchen_drawer
+- cfm:stripped_acacia_kitchen_drawer
+- cfm:stripped_dark_oak_kitchen_drawer
+- cfm:white_kitchen_drawer
+- cfm:orange_kitchen_drawer
+- cfm:magenta_kitchen_drawer
+- cfm:light_blue_kitchen_drawer
+- cfm:yellow_kitchen_drawer
+- cfm:lime_kitchen_drawer
+- cfm:pink_kitchen_drawer
+- cfm:gray_kitchen_drawer
+- cfm:light_gray_kitchen_drawer
+- cfm:cyan_kitchen_drawer
+- cfm:purple_kitchen_drawer
+- cfm:blue_kitchen_drawer
+- cfm:brown_kitchen_drawer
+- cfm:green_kitchen_drawer
+- cfm:red_kitchen_drawer
+- cfm:black_kitchen_drawer
+
+#biomesoplenty:mahogany_logs
+- decorative_blocks:mahogany_beam
+
+#extshape:woolen_fences
+- extshape:white_wool_fence
+- extshape:orange_wool_fence
+- extshape:magenta_wool_fence
+- extshape:light_blue_wool_fence
+- extshape:yellow_wool_fence
+- extshape:lime_wool_fence
+- extshape:pink_wool_fence
+- extshape:gray_wool_fence
+- extshape:light_gray_wool_fence
+- extshape:cyan_wool_fence
+- extshape:purple_wool_fence
+- extshape:blue_wool_fence
+- extshape:brown_wool_fence
+- extshape:green_wool_fence
+- extshape:red_wool_fence
+- extshape:black_wool_fence
+
+#extshape:stained_terracotta_vertical_slabs
+- extshape:white_terracotta_vertical_slab
+- extshape:orange_terracotta_vertical_slab
+- extshape:magenta_terracotta_vertical_slab
+- extshape:light_blue_terracotta_vertical_slab
+- extshape:yellow_terracotta_vertical_slab
+- extshape:lime_terracotta_vertical_slab
+- extshape:pink_terracotta_vertical_slab
+- extshape:gray_terracotta_vertical_slab
+- extshape:light_gray_terracotta_vertical_slab
+- extshape:cyan_terracotta_vertical_slab
+- extshape:purple_terracotta_vertical_slab
+- extshape:blue_terracotta_vertical_slab
+- extshape:brown_terracotta_vertical_slab
+- extshape:green_terracotta_vertical_slab
+- extshape:red_terracotta_vertical_slab
+- extshape:black_terracotta_vertical_slab
+
+#forge:glass/white
+- minecraft:white_stained_glass
+
+#minecraft:signs
+- minecraft:oak_sign
+- minecraft:spruce_sign
+- minecraft:birch_sign
+- minecraft:acacia_sign
+- minecraft:jungle_sign
+- minecraft:dark_oak_sign
+- minecraft:crimson_sign
+- minecraft:warped_sign
+
+#forge:glass_panes/red
+- minecraft:red_stained_glass_pane
+
+#supplementaries:chalk
+- minecraft:quartz
+- chalk:white_chalk?
+
+#biomesoplenty:willow_logs
+- decorative_blocks:willow_beam
+
+#forge:glass/magenta
+- minecraft:magenta_stained_glass
+
+#minecraft:fishes
+- minecraft:cod
+- minecraft:cooked_cod
+- minecraft:salmon
+- minecraft:cooked_salmon
+- minecraft:pufferfish
+- minecraft:tropical_fish
+
+#forge:ores/coal
+- minecraft:coal_ore
+
+#c:glass
+- #forge:glass
+
+#c:iron_ingots
+- #forge:ingots/iron
+
+#cfm:fence_gates/upgraded
+- #cfm:fence_gates/picket
+- cfm:oak_upgraded_gate
+- cfm:spruce_upgraded_gate
+- cfm:birch_upgraded_gate
+- cfm:jungle_upgraded_gate
+- cfm:acacia_upgraded_gate
+- cfm:dark_oak_upgraded_gate
+- cfm:crimson_upgraded_gate
+- cfm:warped_upgraded_gate
+- cfm:stripped_oak_upgraded_gate
+- cfm:stripped_spruce_upgraded_gate
+- cfm:stripped_birch_upgraded_gate
+- cfm:stripped_jungle_upgraded_gate
+- cfm:stripped_acacia_upgraded_gate
+- cfm:stripped_dark_oak_upgraded_gate
+- cfm:stripped_crimson_upgraded_gate
+- cfm:stripped_warped_upgraded_gate
+
+#forge:feathers
+- minecraft:feather
+
+#extshape:stained_terracotta_pressure_plates
+- extshape:white_terracotta_pressure_plate
+- extshape:orange_terracotta_pressure_plate
+- extshape:magenta_terracotta_pressure_plate
+- extshape:light_blue_terracotta_pressure_plate
+- extshape:yellow_terracotta_pressure_plate
+- extshape:lime_terracotta_pressure_plate
+- extshape:pink_terracotta_pressure_plate
+- extshape:gray_terracotta_pressure_plate
+- extshape:light_gray_terracotta_pressure_plate
+- extshape:cyan_terracotta_pressure_plate
+- extshape:purple_terracotta_pressure_plate
+- extshape:blue_terracotta_pressure_plate
+- extshape:brown_terracotta_pressure_plate
+- extshape:green_terracotta_pressure_plate
+- extshape:red_terracotta_pressure_plate
+- extshape:black_terracotta_pressure_plate
+
+#extshape:concrete_buttons
+- extshape:white_concrete_button
+- extshape:orange_concrete_button
+- extshape:magenta_concrete_button
+- extshape:light_blue_concrete_button
+- extshape:yellow_concrete_button
+- extshape:lime_concrete_button
+- extshape:pink_concrete_button
+- extshape:gray_concrete_button
+- extshape:light_gray_concrete_button
+- extshape:cyan_concrete_button
+- extshape:purple_concrete_button
+- extshape:blue_concrete_button
+- extshape:brown_concrete_button
+- extshape:green_concrete_button
+- extshape:red_concrete_button
+- extshape:black_concrete_button
+
+#c:gray_dyes
+- #forge:dyes/gray
+
+#extshape:log_buttons
+- extshape:oak_wood_button
+- extshape:spruce_wood_button
+- extshape:birch_wood_button
+- extshape:jungle_wood_button
+- extshape:acacia_wood_button
+- extshape:dark_oak_wood_button
+- extshape:stripped_oak_wood_button
+- extshape:stripped_spruce_wood_button
+- extshape:stripped_birch_wood_button
+- extshape:stripped_jungle_wood_button
+- extshape:stripped_acacia_wood_button
+- extshape:stripped_dark_oak_wood_button
+- extshape:warped_hyphae_button
+- extshape:crimson_hyphae_button
+- extshape:stripped_warped_hyphae_button
+- extshape:stripped_crimson_hyphae_button
+
+#curios:hands
+- curios:knuckles
+
+#supplementaries:candle/wick
+- #forge:string
+
+#cfm:items
+- cfm:spatula
+
+#extshape:woolen_vertical_slabs
+- extshape:white_wool_vertical_slab
+- extshape:orange_wool_vertical_slab
+- extshape:magenta_wool_vertical_slab
+- extshape:light_blue_wool_vertical_slab
+- extshape:yellow_wool_vertical_slab
+- extshape:lime_wool_vertical_slab
+- extshape:pink_wool_vertical_slab
+- extshape:gray_wool_vertical_slab
+- extshape:light_gray_wool_vertical_slab
+- extshape:cyan_wool_vertical_slab
+- extshape:purple_wool_vertical_slab
+- extshape:blue_wool_vertical_slab
+- extshape:brown_wool_vertical_slab
+- extshape:green_wool_vertical_slab
+- extshape:red_wool_vertical_slab
+- extshape:black_wool_vertical_slab
+
+#minecraft:logs/archwood
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+- ars_nouveau:stripped_blue_archwood_log
+- ars_nouveau:stripped_red_archwood_log
+- ars_nouveau:stripped_green_archwood_log
+- ars_nouveau:stripped_purple_archwood_log
+- ars_nouveau:stripped_blue_archwood_wood
+- ars_nouveau:stripped_red_archwood_wood
+- ars_nouveau:stripped_green_archwood_wood
+- ars_nouveau:stripped_purple_archwood_wood
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+- ars_nouveau:stripped_blue_archwood_log
+- ars_nouveau:stripped_red_archwood_log
+- ars_nouveau:stripped_green_archwood_log
+- ars_nouveau:stripped_purple_archwood_log
+- ars_nouveau:stripped_blue_archwood_wood
+- ars_nouveau:stripped_red_archwood_wood
+- ars_nouveau:stripped_green_archwood_wood
+- ars_nouveau:stripped_purple_archwood_wood
+
+#extshape:terracotta_fences
+- extshape:terracotta_fence
+- #extshape:stained_terracotta_fences
+
+#forge:string
+- minecraft:string
+
+#forge:sand/colorless
+- minecraft:sand
+
+#minecraft:trapdoors
+- #minecraft:wooden_trapdoors
+- minecraft:iron_trapdoor
+- supplementaries:gold_trapdoor
+- supplementaries:netherite_trapdoor
+- ars_nouveau:archwood_trapdoor
+
+#forge:ingots/gold
+- minecraft:gold_ingot
+
+#forge:glass/cyan
+- minecraft:cyan_stained_glass
+
+#forge:leather
+- minecraft:leather
+
+#forge:glass
+- #forge:glass/colorless
+- #forge:stained_glass
+
+#supplementaries:candle/base
+- minecraft:honeycomb
+- #forge:honeycombs?
+- quark:tallow?
+- #resourcefulbees:resourceful_honeycomb?
+- resourcefulbees:wax?
+- productivebees:honey_treat?
+
+#minecraft:boats
+- minecraft:oak_boat
+- minecraft:spruce_boat
+- minecraft:birch_boat
+- minecraft:jungle_boat
+- minecraft:acacia_boat
+- minecraft:dark_oak_boat
+
+#extshape:terracotta_vertical_quarter_pieces
+- extshape:terracotta_vertical_quarter_piece
+- #extshape:stained_terracotta_vertical_quarter_pieces
+
+#forge:nuggets/iron
+- minecraft:iron_nugget
+
+#forge:wooden_doors
+- ars_nouveau:archwood_door
+
+#extshape:concrete_stairs
+- extshape:white_concrete_stairs
+- extshape:orange_concrete_stairs
+- extshape:magenta_concrete_stairs
+- extshape:light_blue_concrete_stairs
+- extshape:yellow_concrete_stairs
+- extshape:lime_concrete_stairs
+- extshape:pink_concrete_stairs
+- extshape:gray_concrete_stairs
+- extshape:light_gray_concrete_stairs
+- extshape:cyan_concrete_stairs
+- extshape:purple_concrete_stairs
+- extshape:blue_concrete_stairs
+- extshape:brown_concrete_stairs
+- extshape:green_concrete_stairs
+- extshape:red_concrete_stairs
+- extshape:black_concrete_stairs
+
+#minecraft:leaves
+- minecraft:jungle_leaves
+- minecraft:oak_leaves
+- minecraft:spruce_leaves
+- minecraft:dark_oak_leaves
+- minecraft:acacia_leaves
+- minecraft:birch_leaves
+
+#forge:gems/diamond
+- minecraft:diamond
+
+#minecraft:walls
+- minecraft:cobblestone_wall
+- minecraft:mossy_cobblestone_wall
+- minecraft:brick_wall
+- minecraft:prismarine_wall
+- minecraft:red_sandstone_wall
+- minecraft:mossy_stone_brick_wall
+- minecraft:granite_wall
+- minecraft:stone_brick_wall
+- minecraft:nether_brick_wall
+- minecraft:andesite_wall
+- minecraft:red_nether_brick_wall
+- minecraft:sandstone_wall
+- minecraft:end_stone_brick_wall
+- minecraft:diorite_wall
+- minecraft:blackstone_wall
+- minecraft:polished_blackstone_brick_wall
+- minecraft:polished_blackstone_wall
+- extshape:stone_wall
+- extshape:polished_granite_wall
+- extshape:polished_diorite_wall
+- extshape:polished_andesite_wall
+- extshape:dirt_wall
+- extshape:coarse_dirt_wall
+- extshape:oak_wood_wall
+- extshape:spruce_wood_wall
+- extshape:birch_wood_wall
+- extshape:jungle_wood_wall
+- extshape:acacia_wood_wall
+- extshape:dark_oak_wood_wall
+- extshape:stripped_oak_wood_wall
+- extshape:stripped_spruce_wood_wall
+- extshape:stripped_birch_wood_wall
+- extshape:stripped_jungle_wood_wall
+- extshape:stripped_acacia_wood_wall
+- extshape:stripped_dark_oak_wood_wall
+- extshape:warped_hyphae_wall
+- extshape:crimson_hyphae_wall
+- extshape:stripped_warped_hyphae_wall
+- extshape:stripped_crimson_hyphae_wall
+- extshape:bedrock_wall
+- extshape:lapis_wall
+- extshape:cut_sandstone_wall
+- extshape:chiseled_sandstone_wall
+- extshape:smooth_sandstone_wall
+- extshape:cut_red_sandstone_wall
+- extshape:chiseled_red_sandstone_wall
+- extshape:smooth_red_sandstone_wall
+- extshape:gold_wall
+- extshape:iron_wall
+- extshape:obsidian_wall
+- extshape:diamond_wall
+- extshape:snow_wall
+- extshape:clay_wall
+- extshape:pumpkin_wall
+- extshape:netherrack_wall
+- extshape:glowstone_wall
+- extshape:chiseled_stone_brick_wall
+- extshape:melon_wall
+- extshape:end_stone_wall
+- extshape:emerald_wall
+- extshape:quartz_wall
+- extshape:chiseled_quartz_wall
+- extshape:quartz_brick_wall
+- extshape:smooth_quartz_wall
+- extshape:coal_wall
+- extshape:packed_ice_wall
+- extshape:prismarine_brick_wall
+- extshape:dark_prismarine_wall
+- extshape:smooth_stone_wall
+- extshape:purpur_wall
+- extshape:nether_wart_wall
+- extshape:warped_wart_wall
+- extshape:shroomlight_wall
+- extshape:honeycomb_wall
+- extshape:netherite_wall
+- extshape:ancient_debris_wall
+- extshape:crying_obsidian_wall
+- extshape:basalt_wall
+- extshape:polished_basalt_wall
+- #extshape:log_walls
+- #extshape:wooden_walls
+- #extshape:woolen_walls
+- #extshape:concrete_fence_walls
+- #extshape:terracotta_fence_walls
+
+#extshape:log_blocks
+- #extshape:log_stairs
+- #extshape:log_slabs
+- #extshape:log_fences
+- #extshape:log_fence_gates
+- #extshape:log_walls
+- #extshape:log_buttons
+- #extshape:log_pressure_plates
+- #extshape:log_vertical_slabs
+- #extshape:log_quarter_pieces
+- #extshape:log_vertical_stairs
+- #extshape:log_vertical_quarter_pieces
+
+#supplementaries:chocolate_bars
+- create:bar_of_chocolate?
+- neapolitan:chocolate_bar?
+- fluffy_farmer:chocolate_bar?
+- xercamod:item_chocolate?
+- simplefarming:chocolate?
+- vanillacookbook:chocolate?
+
+#cfm:general
+- cfm:oak_table
+- cfm:spruce_table
+- cfm:birch_table
+- cfm:jungle_table
+- cfm:acacia_table
+- cfm:dark_oak_table
+- cfm:stone_table
+- cfm:granite_table
+- cfm:diorite_table
+- cfm:andesite_table
+- cfm:stripped_oak_table
+- cfm:stripped_spruce_table
+- cfm:stripped_birch_table
+- cfm:stripped_jungle_table
+- cfm:stripped_acacia_table
+- cfm:stripped_dark_oak_table
+- cfm:oak_chair
+- cfm:spruce_chair
+- cfm:birch_chair
+- cfm:jungle_chair
+- cfm:acacia_chair
+- cfm:dark_oak_chair
+- cfm:stone_chair
+- cfm:granite_chair
+- cfm:diorite_chair
+- cfm:andesite_chair
+- cfm:stripped_oak_chair
+- cfm:stripped_spruce_chair
+- cfm:stripped_birch_chair
+- cfm:stripped_jungle_chair
+- cfm:stripped_acacia_chair
+- cfm:stripped_dark_oak_chair
+- cfm:oak_coffee_table
+- cfm:spruce_coffee_table
+- cfm:birch_coffee_table
+- cfm:jungle_coffee_table
+- cfm:acacia_coffee_table
+- cfm:dark_oak_coffee_table
+- cfm:stone_coffee_table
+- cfm:granite_coffee_table
+- cfm:diorite_coffee_table
+- cfm:andesite_coffee_table
+- cfm:stripped_oak_coffee_table
+- cfm:stripped_spruce_coffee_table
+- cfm:stripped_birch_coffee_table
+- cfm:stripped_jungle_coffee_table
+- cfm:stripped_acacia_coffee_table
+- cfm:stripped_dark_oak_coffee_table
+- cfm:white_sofa
+- cfm:orange_sofa
+- cfm:magenta_sofa
+- cfm:light_blue_sofa
+- cfm:yellow_sofa
+- cfm:lime_sofa
+- cfm:pink_sofa
+- cfm:gray_sofa
+- cfm:light_gray_sofa
+- cfm:cyan_sofa
+- cfm:purple_sofa
+- cfm:blue_sofa
+- cfm:brown_sofa
+- cfm:green_sofa
+- cfm:red_sofa
+- cfm:black_sofa
+
+#forge:glass/green
+- minecraft:green_stained_glass
+
+#forge:crops/potato
+- minecraft:potato
+
+#ars_nouveau:magic_food
+- ars_nouveau:source_berry_roll
+- ars_nouveau:source_berry_pie
+
+#forge:glass_panes/gray
+- minecraft:gray_stained_glass_pane
+
+#armourers_workshop:skinnable/axes
+- minecraft:wooden_axe
+- minecraft:stone_axe
+- minecraft:iron_axe
+- minecraft:golden_axe
+- minecraft:diamond_axe
+- minecraft:netherite_axe
+
+#minecraft:acacia_logs
+- minecraft:acacia_log
+- minecraft:acacia_wood
+- minecraft:stripped_acacia_log
+- minecraft:stripped_acacia_wood
+- decorative_blocks:acacia_beam
+
+#minecraft:piglin_loved
+- #minecraft:gold_ores
+- minecraft:gold_block
+- minecraft:gilded_blackstone
+- minecraft:light_weighted_pressure_plate
+- minecraft:gold_ingot
+- minecraft:bell
+- minecraft:clock
+- minecraft:golden_carrot
+- minecraft:glistering_melon_slice
+- minecraft:golden_apple
+- minecraft:enchanted_golden_apple
+- minecraft:golden_helmet
+- minecraft:golden_chestplate
+- minecraft:golden_leggings
+- minecraft:golden_boots
+- minecraft:golden_horse_armor
+- minecraft:golden_sword
+- minecraft:golden_pickaxe
+- minecraft:golden_shovel
+- minecraft:golden_axe
+- minecraft:golden_hoe
+- supplementaries:candelabra
+- supplementaries:hourglass
+- supplementaries:gold_door
+- supplementaries:gold_trapdoor
+- supplementaries:gold_gate
+- supplementaries:clock_block
+- supplementaries:crimson_lantern
+- supplementaries:key
+- extshape:gold_stairs
+- extshape:gold_slab
+- extshape:gold_vertical_slab
+- extshape:gold_vertical_stairs
+- extshape:gold_quarter_piece
+- extshape:gold_vertical_quarter_piece
+- extshape:gold_fence
+- extshape:gold_fence_gate
+- extshape:gold_wall
+- extshape:gold_button
+
+#minecraft:music_discs
+- #minecraft:creeper_drop_music_discs
+- minecraft:music_disc_pigstep
+
+#extshape:woolen_vertical_stairs
+- extshape:white_wool_vertical_stairs
+- extshape:orange_wool_vertical_stairs
+- extshape:magenta_wool_vertical_stairs
+- extshape:light_blue_wool_vertical_stairs
+- extshape:yellow_wool_vertical_stairs
+- extshape:lime_wool_vertical_stairs
+- extshape:pink_wool_vertical_stairs
+- extshape:gray_wool_vertical_stairs
+- extshape:light_gray_wool_vertical_stairs
+- extshape:cyan_wool_vertical_stairs
+- extshape:purple_wool_vertical_stairs
+- extshape:blue_wool_vertical_stairs
+- extshape:brown_wool_vertical_stairs
+- extshape:green_wool_vertical_stairs
+- extshape:red_wool_vertical_stairs
+- extshape:black_wool_vertical_stairs
+
+#forge:stained_glass_panes
+- minecraft:white_stained_glass_pane
+- minecraft:orange_stained_glass_pane
+- minecraft:magenta_stained_glass_pane
+- minecraft:light_blue_stained_glass_pane
+- minecraft:yellow_stained_glass_pane
+- minecraft:lime_stained_glass_pane
+- minecraft:pink_stained_glass_pane
+- minecraft:gray_stained_glass_pane
+- minecraft:light_gray_stained_glass_pane
+- minecraft:cyan_stained_glass_pane
+- minecraft:purple_stained_glass_pane
+- minecraft:blue_stained_glass_pane
+- minecraft:brown_stained_glass_pane
+- minecraft:green_stained_glass_pane
+- minecraft:red_stained_glass_pane
+- minecraft:black_stained_glass_pane
+
+#c:stone
+- #forge:stone
+
+#extshape:terracotta_quarter_pieces
+- extshape:terracotta_quarter_piece
+- #extshape:stained_terracotta_quarter_pieces
+
+#curios:head
+- curios:crown
+
+#c:blue_dyes
+- #forge:dyes/blue
+
+#forge:gems
+- #forge:gems/diamond
+- #forge:gems/emerald
+- #forge:gems/lapis
+- #forge:gems/prismarine
+- #forge:gems/quartz
+- ars_nouveau:mana_gem
+
+#forge:sand/red
+- minecraft:red_sand
+
+#extshape:log_walls
+
+#minecraft:sand
+- minecraft:sand
+- minecraft:red_sand
+
+#forge:end_stones
+- minecraft:end_stone
+
+#forge:glass/brown
+- minecraft:brown_stained_glass
+
+#biomesoplenty:fir_logs
+- decorative_blocks:fir_beam
+
+#minecraft:logs_that_burn
+- #minecraft:dark_oak_logs
+- #minecraft:oak_logs
+- #minecraft:acacia_logs
+- #minecraft:birch_logs
+- #minecraft:jungle_logs
+- #minecraft:spruce_logs
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+- ars_nouveau:stripped_blue_archwood_log
+- ars_nouveau:stripped_blue_archwood_wood
+- ars_nouveau:stripped_green_archwood_log
+- ars_nouveau:stripped_green_archwood_wood
+- ars_nouveau:stripped_red_archwood_log
+- ars_nouveau:stripped_red_archwood_wood
+- ars_nouveau:stripped_purple_archwood_log
+- ars_nouveau:stripped_purple_archwood_wood
+
+#armourers_workshop:skinnable/tridents
+- minecraft:trident
+
+#forge:fences/wooden
+- minecraft:oak_fence
+- minecraft:spruce_fence
+- minecraft:birch_fence
+- minecraft:jungle_fence
+- minecraft:acacia_fence
+- minecraft:dark_oak_fence
+- minecraft:crimson_fence
+- minecraft:warped_fence
+- ars_nouveau:archwood_fence
+
+#forge:dyes/light_gray
+- minecraft:light_gray_dye
+
+#forge:storage_blocks
+- #forge:storage_blocks/coal
+- #forge:storage_blocks/diamond
+- #forge:storage_blocks/emerald
+- #forge:storage_blocks/gold
+- #forge:storage_blocks/iron
+- #forge:storage_blocks/lapis
+- #forge:storage_blocks/quartz
+- #forge:storage_blocks/redstone
+- #forge:storage_blocks/netherite
+- ars_nouveau:mana_gem_block
+
+#forge:glass/gray
+- minecraft:gray_stained_glass
+
+#forge:glass_panes/orange
+- minecraft:orange_stained_glass_pane
+
+#forge:glass/light_gray
+- minecraft:light_gray_stained_glass
+
+#forge:dyes/light_blue
+- minecraft:light_blue_dye
+
+#forge:milk
+- minecraft:milk_bucket
+
+#minecraft:beacon_payment_items
+- minecraft:netherite_ingot
+- minecraft:emerald
+- minecraft:diamond
+- minecraft:gold_ingot
+- minecraft:iron_ingot
+- ars_nouveau:mana_gem
+
+#forge:ores/quartz
+- minecraft:nether_quartz_ore
+
+#minecraft:wooden_slabs
+- minecraft:oak_slab
+- minecraft:spruce_slab
+- minecraft:birch_slab
+- minecraft:jungle_slab
+- minecraft:acacia_slab
+- minecraft:dark_oak_slab
+- minecraft:crimson_slab
+- minecraft:warped_slab
+- ars_nouveau:archwood_slab
+
+#c:wooden_chests
+- #forge:chests/wooden
+
+#extshape:vertical_slabs
+- extshape:stone_vertical_slab
+- extshape:granite_vertical_slab
+- extshape:polished_granite_vertical_slab
+- extshape:diorite_vertical_slab
+- extshape:polished_diorite_vertical_slab
+- extshape:andesite_vertical_slab
+- extshape:polished_andesite_vertical_slab
+- extshape:dirt_vertical_slab
+- extshape:coarse_dirt_vertical_slab
+- extshape:cobblestone_vertical_slab
+- extshape:bedrock_vertical_slab
+- extshape:lapis_vertical_slab
+- extshape:sandstone_vertical_slab
+- extshape:cut_sandstone_vertical_slab
+- extshape:chiseled_sandstone_vertical_slab
+- extshape:smooth_sandstone_vertical_slab
+- extshape:red_sandstone_vertical_slab
+- extshape:cut_red_sandstone_vertical_slab
+- extshape:chiseled_red_sandstone_vertical_slab
+- extshape:smooth_red_sandstone_vertical_slab
+- extshape:gold_vertical_slab
+- extshape:iron_vertical_slab
+- extshape:brick_vertical_slab
+- extshape:mossy_cobblestone_vertical_slab
+- extshape:obsidian_vertical_slab
+- extshape:diamond_vertical_slab
+- extshape:snow_vertical_slab
+- extshape:clay_vertical_slab
+- extshape:pumpkin_vertical_slab
+- extshape:netherrack_vertical_slab
+- extshape:glowstone_vertical_slab
+- extshape:stone_brick_vertical_slab
+- extshape:mossy_stone_brick_vertical_slab
+- extshape:chiseled_stone_brick_vertical_slab
+- extshape:melon_vertical_slab
+- extshape:nether_brick_vertical_slab
+- extshape:end_stone_vertical_slab
+- extshape:emerald_vertical_slab
+- extshape:quartz_vertical_slab
+- extshape:chiseled_quartz_vertical_slab
+- extshape:quartz_brick_vertical_slab
+- extshape:smooth_quartz_vertical_slab
+- extshape:red_nether_brick_vertical_slab
+- extshape:coal_vertical_slab
+- extshape:packed_ice_vertical_slab
+- extshape:prismarine_vertical_slab
+- extshape:prismarine_brick_vertical_slab
+- extshape:dark_prismarine_vertical_slab
+- extshape:sea_lantern_vertical_slab
+- extshape:purpur_vertical_slab
+- extshape:nether_wart_vertical_slab
+- extshape:warped_wart_vertical_slab
+- extshape:shroomlight_vertical_slab
+- extshape:honeycomb_vertical_slab
+- extshape:netherite_vertical_slab
+- extshape:ancient_debris_vertical_slab
+- extshape:crying_obsidian_vertical_slab
+- extshape:blackstone_vertical_slab
+- extshape:polished_blackstone_vertical_slab
+- extshape:polished_blackstone_brick_vertical_slab
+- extshape:chiseled_polished_blackstone_vertical_slab
+- extshape:gilded_blackstone_vertical_slab
+- extshape:chiseled_nether_brick_vertical_slab
+- extshape:basalt_vertical_slab
+- extshape:polished_basalt_vertical_slab
+- #extshape:log_vertical_slabs
+- #extshape:wooden_vertical_slabs
+- #extshape:woolen_vertical_slabs
+- #extshape:concrete_vertical_slabs
+- #extshape:terracotta_vertical_slabs
+
+#forge:ingots/brick
+- minecraft:brick
+
+#forge:dyes/white
+- minecraft:white_dye
+
+#forge:glass/blue
+- minecraft:blue_stained_glass
+
+#minecraft:small_flowers
+- minecraft:dandelion
+- minecraft:poppy
+- minecraft:blue_orchid
+- minecraft:allium
+- minecraft:azure_bluet
+- minecraft:red_tulip
+- minecraft:orange_tulip
+- minecraft:white_tulip
+- minecraft:pink_tulip
+- minecraft:oxeye_daisy
+- minecraft:cornflower
+- minecraft:lily_of_the_valley
+- minecraft:wither_rose
+
+#forge:ores/mana
+- ars_nouveau:arcane_ore
+
+#extshape:stained_terracotta_slabs
+- extshape:white_terracotta_slab
+- extshape:orange_terracotta_slab
+- extshape:magenta_terracotta_slab
+- extshape:light_blue_terracotta_slab
+- extshape:yellow_terracotta_slab
+- extshape:lime_terracotta_slab
+- extshape:pink_terracotta_slab
+- extshape:gray_terracotta_slab
+- extshape:light_gray_terracotta_slab
+- extshape:cyan_terracotta_slab
+- extshape:purple_terracotta_slab
+- extshape:blue_terracotta_slab
+- extshape:brown_terracotta_slab
+- extshape:green_terracotta_slab
+- extshape:red_terracotta_slab
+- extshape:black_terracotta_slab
+
+#minecraft:wooden_trapdoors
+- minecraft:acacia_trapdoor
+- minecraft:birch_trapdoor
+- minecraft:dark_oak_trapdoor
+- minecraft:jungle_trapdoor
+- minecraft:oak_trapdoor
+- minecraft:spruce_trapdoor
+- minecraft:crimson_trapdoor
+- minecraft:warped_trapdoor
+- ars_nouveau:archwood_trapdoor
+
+#armourers_workshop:skinnable/hoes
+- minecraft:wooden_hoe
+- minecraft:stone_hoe
+- minecraft:iron_hoe
+- minecraft:golden_hoe
+- minecraft:diamond_hoe
+- minecraft:netherite_hoe
+
+#forge:seeds/pumpkin
+- minecraft:pumpkin_seeds
+
+#cfm:fences/upgraded
+- #cfm:fences/picket
+- cfm:oak_upgraded_fence
+- cfm:spruce_upgraded_fence
+- cfm:birch_upgraded_fence
+- cfm:jungle_upgraded_fence
+- cfm:acacia_upgraded_fence
+- cfm:dark_oak_upgraded_fence
+- cfm:crimson_upgraded_fence
+- cfm:warped_upgraded_fence
+- cfm:stripped_oak_upgraded_fence
+- cfm:stripped_spruce_upgraded_fence
+- cfm:stripped_birch_upgraded_fence
+- cfm:stripped_jungle_upgraded_fence
+- cfm:stripped_acacia_upgraded_fence
+- cfm:stripped_dark_oak_upgraded_fence
+- cfm:stripped_crimson_upgraded_fence
+- cfm:stripped_warped_upgraded_fence
+
+#forge:storage_blocks/coal
+- minecraft:coal_block
+
+#forge:glass_panes/black
+- minecraft:black_stained_glass_pane
+
+#forge:glass/light_blue
+- minecraft:light_blue_stained_glass
+
+#cfm:fences/picket
+- cfm:white_picket_fence
+- cfm:orange_picket_fence
+- cfm:magenta_picket_fence
+- cfm:light_blue_picket_fence
+- cfm:yellow_picket_fence
+- cfm:lime_picket_fence
+- cfm:pink_picket_fence
+- cfm:gray_picket_fence
+- cfm:light_gray_picket_fence
+- cfm:cyan_picket_fence
+- cfm:purple_picket_fence
+- cfm:blue_picket_fence
+- cfm:brown_picket_fence
+- cfm:green_picket_fence
+- cfm:red_picket_fence
+- cfm:black_picket_fence
+
+#forge:dusts/redstone
+- minecraft:redstone
+
+#extshape:log_fences
+- extshape:oak_wood_fence
+- extshape:spruce_wood_fence
+- extshape:birch_wood_fence
+- extshape:jungle_wood_fence
+- extshape:acacia_wood_fence
+- extshape:dark_oak_wood_fence
+- extshape:stripped_oak_wood_fence
+- extshape:stripped_spruce_wood_fence
+- extshape:stripped_birch_wood_fence
+- extshape:stripped_jungle_wood_fence
+- extshape:stripped_acacia_wood_fence
+- extshape:stripped_dark_oak_wood_fence
+- extshape:warped_hyphae_fence
+- extshape:crimson_hyphae_fence
+- extshape:stripped_warped_hyphae_fence
+- extshape:stripped_crimson_hyphae_fence
+
+#armourers_workshop:skinnable/swords
+- minecraft:wooden_sword
+- minecraft:stone_sword
+- minecraft:iron_sword
+- minecraft:golden_sword
+- minecraft:diamond_sword
+- minecraft:netherite_sword
+
+#forge:dyes/pink
+- minecraft:pink_dye
+
+#extshape:quarter_pieces
+- extshape:stone_quarter_piece
+- extshape:granite_quarter_piece
+- extshape:polished_granite_quarter_piece
+- extshape:diorite_quarter_piece
+- extshape:polished_diorite_quarter_piece
+- extshape:andesite_quarter_piece
+- extshape:polished_andesite_quarter_piece
+- extshape:dirt_quarter_piece
+- extshape:coarse_dirt_quarter_piece
+- extshape:cobblestone_quarter_piece
+- extshape:bedrock_quarter_piece
+- extshape:lapis_quarter_piece
+- extshape:sandstone_quarter_piece
+- extshape:cut_sandstone_quarter_piece
+- extshape:chiseled_sandstone_quarter_piece
+- extshape:smooth_sandstone_quarter_piece
+- extshape:red_sandstone_quarter_piece
+- extshape:cut_red_sandstone_quarter_piece
+- extshape:chiseled_red_sandstone_quarter_piece
+- extshape:smooth_red_sandstone_quarter_piece
+- extshape:gold_quarter_piece
+- extshape:iron_quarter_piece
+- extshape:brick_quarter_piece
+- extshape:mossy_cobblestone_quarter_piece
+- extshape:obsidian_quarter_piece
+- extshape:diamond_quarter_piece
+- extshape:snow_quarter_piece
+- extshape:clay_quarter_piece
+- extshape:pumpkin_quarter_piece
+- extshape:netherrack_quarter_piece
+- extshape:glowstone_quarter_piece
+- extshape:stone_brick_quarter_piece
+- extshape:mossy_stone_brick_quarter_piece
+- extshape:chiseled_stone_brick_quarter_piece
+- extshape:melon_quarter_piece
+- extshape:nether_brick_quarter_piece
+- extshape:end_stone_quarter_piece
+- extshape:emerald_quarter_piece
+- extshape:quartz_quarter_piece
+- extshape:chiseled_quartz_quarter_piece
+- extshape:quartz_brick_quarter_piece
+- extshape:smooth_quartz_quarter_piece
+- extshape:red_nether_brick_quarter_piece
+- extshape:coal_quarter_piece
+- extshape:packed_ice_quarter_piece
+- extshape:prismarine_quarter_piece
+- extshape:prismarine_brick_quarter_piece
+- extshape:dark_prismarine_quarter_piece
+- extshape:sea_lantern_quarter_piece
+- extshape:purpur_quarter_piece
+- extshape:nether_wart_quarter_piece
+- extshape:warped_wart_quarter_piece
+- extshape:shroomlight_quarter_piece
+- extshape:honeycomb_quarter_piece
+- extshape:netherite_quarter_piece
+- extshape:ancient_debris_quarter_piece
+- extshape:crying_obsidian_quarter_piece
+- extshape:blackstone_quarter_piece
+- extshape:polished_blackstone_quarter_piece
+- extshape:polished_blackstone_brick_quarter_piece
+- extshape:chiseled_polished_blackstone_quarter_piece
+- extshape:gilded_blackstone_quarter_piece
+- extshape:chiseled_nether_brick_quarter_piece
+- extshape:basalt_quarter_piece
+- extshape:polished_basalt_quarter_piece
+- #extshape:log_quarter_pieces
+- #extshape:wooden_quarter_pieces
+- #extshape:woolen_quarter_pieces
+- #extshape:concrete_quarter_pieces
+- #extshape:terracotta_quarter_pieces
+
+#forge:storage_blocks/redstone
+- minecraft:redstone_block
+
+#forge:gems/quartz
+- minecraft:quartz
+
+#forge:crops/beetroot
+- minecraft:beetroot
+
+#minecraft:stairs
+- #minecraft:wooden_stairs
+- minecraft:cobblestone_stairs
+- minecraft:sandstone_stairs
+- minecraft:nether_brick_stairs
+- minecraft:stone_brick_stairs
+- minecraft:brick_stairs
+- minecraft:purpur_stairs
+- minecraft:quartz_stairs
+- minecraft:red_sandstone_stairs
+- minecraft:prismarine_brick_stairs
+- minecraft:prismarine_stairs
+- minecraft:dark_prismarine_stairs
+- minecraft:polished_granite_stairs
+- minecraft:smooth_red_sandstone_stairs
+- minecraft:mossy_stone_brick_stairs
+- minecraft:polished_diorite_stairs
+- minecraft:mossy_cobblestone_stairs
+- minecraft:end_stone_brick_stairs
+- minecraft:stone_stairs
+- minecraft:smooth_sandstone_stairs
+- minecraft:smooth_quartz_stairs
+- minecraft:granite_stairs
+- minecraft:andesite_stairs
+- minecraft:red_nether_brick_stairs
+- minecraft:polished_andesite_stairs
+- minecraft:diorite_stairs
+- minecraft:blackstone_stairs
+- minecraft:polished_blackstone_brick_stairs
+- minecraft:polished_blackstone_stairs
+- ars_nouveau:archwood_stairs
+- extshape:dirt_stairs
+- extshape:coarse_dirt_stairs
+- extshape:bedrock_stairs
+- extshape:lapis_stairs
+- extshape:cut_sandstone_stairs
+- extshape:chiseled_sandstone_stairs
+- extshape:cut_red_sandstone_stairs
+- extshape:chiseled_red_sandstone_stairs
+- extshape:gold_stairs
+- extshape:iron_stairs
+- extshape:obsidian_stairs
+- extshape:diamond_stairs
+- extshape:snow_stairs
+- extshape:clay_stairs
+- extshape:pumpkin_stairs
+- extshape:netherrack_stairs
+- extshape:glowstone_stairs
+- extshape:chiseled_stone_brick_stairs
+- extshape:melon_stairs
+- extshape:end_stone_stairs
+- extshape:emerald_stairs
+- extshape:chiseled_quartz_stairs
+- extshape:quartz_brick_stairs
+- extshape:coal_stairs
+- extshape:packed_ice_stairs
+- extshape:sea_lantern_stairs
+- extshape:nether_wart_stairs
+- extshape:warped_wart_stairs
+- extshape:shroomlight_stairs
+- extshape:honeycomb_stairs
+- extshape:netherite_stairs
+- extshape:ancient_debris_stairs
+- extshape:crying_obsidian_stairs
+- extshape:chiseled_polished_blackstone_stairs
+- extshape:gilded_blackstone_stairs
+- extshape:chiseled_nether_brick_stairs
+- extshape:basalt_stairs
+- extshape:polished_basalt_stairs
+- #extshape:log_stairs
+- #extshape:woolen_stairs
+- #extshape:concrete_stairs
+- #extshape:terracotta_stairs
+
+#forge:glass_panes/blue
+- minecraft:blue_stained_glass_pane
+
+#forge:seeds/melon
+- minecraft:melon_seeds
+
+#forge:logs/archwood
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+
+#armourers_workshop:skinnable/bows
+- minecraft:bow
+- minecraft:crossbow
+
+#minecraft:logs
+- #minecraft:logs_that_burn
+- #minecraft:crimson_stems
+- #minecraft:warped_stems
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+- ars_nouveau:stripped_blue_archwood_log
+- ars_nouveau:stripped_red_archwood_log
+- ars_nouveau:stripped_green_archwood_log
+- ars_nouveau:stripped_purple_archwood_log
+- ars_nouveau:stripped_blue_archwood_wood
+- ars_nouveau:stripped_red_archwood_wood
+- ars_nouveau:stripped_green_archwood_wood
+- ars_nouveau:stripped_purple_archwood_wood
+
+#forge:gems/mana
+- ars_nouveau:mana_gem
+
+#extshape:wooden_vertical_quarter_pieces
+- extshape:oak_vertical_quarter_piece
+- extshape:spruce_vertical_quarter_piece
+- extshape:birch_vertical_quarter_piece
+- extshape:jungle_vertical_quarter_piece
+- extshape:acacia_vertical_quarter_piece
+- extshape:dark_oak_vertical_quarter_piece
+- extshape:crimson_vertical_quarter_piece
+- extshape:warped_vertical_quarter_piece
+
+#forge:crops/wheat
+- minecraft:wheat
+
+#minecraft:creeper_drop_music_discs
+- minecraft:music_disc_13
+- minecraft:music_disc_cat
+- minecraft:music_disc_blocks
+- minecraft:music_disc_chirp
+- minecraft:music_disc_far
+- minecraft:music_disc_mall
+- minecraft:music_disc_mellohi
+- minecraft:music_disc_stal
+- minecraft:music_disc_strad
+- minecraft:music_disc_ward
+- minecraft:music_disc_11
+- minecraft:music_disc_wait
+
+#extshape:stained_terracotta_vertical_quarter_pieces
+- extshape:white_terracotta_vertical_quarter_piece
+- extshape:orange_terracotta_vertical_quarter_piece
+- extshape:magenta_terracotta_vertical_quarter_piece
+- extshape:light_blue_terracotta_vertical_quarter_piece
+- extshape:yellow_terracotta_vertical_quarter_piece
+- extshape:lime_terracotta_vertical_quarter_piece
+- extshape:pink_terracotta_vertical_quarter_piece
+- extshape:gray_terracotta_vertical_quarter_piece
+- extshape:light_gray_terracotta_vertical_quarter_piece
+- extshape:cyan_terracotta_vertical_quarter_piece
+- extshape:purple_terracotta_vertical_quarter_piece
+- extshape:blue_terracotta_vertical_quarter_piece
+- extshape:brown_terracotta_vertical_quarter_piece
+- extshape:green_terracotta_vertical_quarter_piece
+- extshape:red_terracotta_vertical_quarter_piece
+- extshape:black_terracotta_vertical_quarter_piece
+
+#extshape:log_vertical_quarter_pieces
+- extshape:oak_log_vertical_quarter_piece
+- extshape:spruce_log_vertical_quarter_piece
+- extshape:birch_log_vertical_quarter_piece
+- extshape:jungle_log_vertical_quarter_piece
+- extshape:acacia_log_vertical_quarter_piece
+- extshape:dark_oak_log_vertical_quarter_piece
+- extshape:stripped_oak_log_vertical_quarter_piece
+- extshape:stripped_spruce_log_vertical_quarter_piece
+- extshape:stripped_birch_log_vertical_quarter_piece
+- extshape:stripped_jungle_log_vertical_quarter_piece
+- extshape:stripped_acacia_log_vertical_quarter_piece
+- extshape:stripped_dark_oak_log_vertical_quarter_piece
+- extshape:oak_wood_vertical_quarter_piece
+- extshape:spruce_wood_vertical_quarter_piece
+- extshape:birch_wood_vertical_quarter_piece
+- extshape:jungle_wood_vertical_quarter_piece
+- extshape:acacia_wood_vertical_quarter_piece
+- extshape:dark_oak_wood_vertical_quarter_piece
+- extshape:stripped_oak_wood_vertical_quarter_piece
+- extshape:stripped_spruce_wood_vertical_quarter_piece
+- extshape:stripped_birch_wood_vertical_quarter_piece
+- extshape:stripped_jungle_wood_vertical_quarter_piece
+- extshape:stripped_acacia_wood_vertical_quarter_piece
+- extshape:stripped_dark_oak_wood_vertical_quarter_piece
+- extshape:warped_stem_vertical_quarter_piece
+- extshape:crimson_stem_vertical_quarter_piece
+- extshape:stripped_warped_stem_vertical_quarter_piece
+- extshape:stripped_crimson_stem_vertical_quarter_piece
+- extshape:warped_hyphae_vertical_quarter_piece
+- extshape:crimson_hyphae_vertical_quarter_piece
+- extshape:stripped_warped_hyphae_vertical_quarter_piece
+- extshape:stripped_crimson_hyphae_vertical_quarter_piece
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:tipped_arrow
+- minecraft:spectral_arrow
+- supplementaries:rope_arrow
+- supplementaries:amethyst_arrow
+
+#supplementaries:cookies
+- minecraft:cookie
+- supplementaries:candy
+- farmersdelight:honey_cookie?
+- farmersdelight:sweet_berry_cookie?
+- farmersdelight:peanut_butter_cookie?
+- fluffy_farmer:chocolate_cookie?
+- fluffy_farmer:berry_cookie?
+- pamhc2crops:beanitem?
+- pamhc2crops:chickpeaitem?
+- pamhc2crops:jicamaitem?
+- pamhc2crops:roastedmushroomitem?
+- pamhc2crops:bakedwaterchestnutitem?
+- pamhc2crops:waterchestnutitem?
+- pamhc2crops:chocolatemuffinitem?
+- pamhc2crops:donutitem?
+- pamhc2crops:chocolatedonutitem?
+- pamhc2crops:jellydonutitem?
+- pamhc2crops:crackeritem?
+- pamhc2crops:pretzelitem?
+- pamhc2crops:chocolatebaritem?
+- pamhc2crops:chocolaterollitem?
+- pamhc2crops:chocolatecaramelfudgeitem?
+- pamhc2crops:smoresitem?
+- pamhc2crops:trailmixitem?
+- pamhc2crops:candiedpecansitem?
+- pamhc2crops:candiedsweetpotatoesitem?
+- pamhc2crops:candiedwalnutsitem?
+- pamhc2crops:chocolateorangeitem?
+- pamhc2crops:chocolatepeanutbaritem?
+- pamhc2crops:chocolatestrawberryitem?
+- pamhc2crops:peanutbuttercupitem?
+- pamhc2crops:pralinesitem?
+- pamhc2crops:pinenutitem?
+- pamhc2crops:roastedalmonditem?
+- pamhc2crops:roastedpinenutitem?
+- pamhc2crops:garlicitem?
+- cookielicious:strawberry_cookie?
+- cookielicious:vanilla_cookie?
+- cookielicious:sandwich_cookie?
+- cookielicious:strawberry_cookie?
+- cookielicious:vanilla_cookie?
+- croptopia:raisin_oatmeal_cookie?
+- croptopia:nutty_cookie?
+- cspirit:sugar_cookie_santa?
+- cspirit:sugar_cookie_circle?
+- cspirit:sugar_cookie_ornament?
+- cspirit:sugar_cookie_star?
+- cspirit:sugar_cookie_man?
+- cspirit:sugar_cookie_snowman?
+- cspirit:gingerbread_cookie_circle?
+- inventorypets:holiday_cookie?
+- simplefarming:peanut_butter_cookie?
+- teletubbies:toast?
+- tofucraft:tofucookie?
+- bayou_blues:gooseberry_jam_cookie?
+- vanillacookbook:berry_cookie?
+- vanillacookbook:honey_cookie?
+- vanillacookbook:potato_cookie?
+- vanillacookbook:pumpkin_cookie?
+- vanillacookbook:sunflower_seed_cookie?
+- terraincognita:hazelnut_cookie?
+- ashenwheat:scintilla_cookie?
+- ashenwheat:ash_cookie?
+- create:honeyed_apple?
+- create:chocolate_glazed_berries?
+- bayou_blues:honey_glazed_gooseberries?
+
+#extshape:terracotta_slabs
+- extshape:terracotta_slab
+- #extshape:stained_terracotta_slabs
+
+#c:white_dyes
+- #forge:dyes/white
+
+#forge:stone
+- minecraft:andesite
+- minecraft:diorite
+- minecraft:granite
+- minecraft:infested_stone
+- minecraft:stone
+- minecraft:polished_andesite
+- minecraft:polished_diorite
+- minecraft:polished_granite
+
+#minecraft:wooden_doors
+- minecraft:oak_door
+- minecraft:spruce_door
+- minecraft:birch_door
+- minecraft:jungle_door
+- minecraft:acacia_door
+- minecraft:dark_oak_door
+- minecraft:crimson_door
+- minecraft:warped_door
+- ars_nouveau:archwood_door
+
+#forge:glass_panes/yellow
+- minecraft:yellow_stained_glass_pane
+
+#forge:glass/purple
+- minecraft:purple_stained_glass
+
+#forge:gems/lapis
+- minecraft:lapis_lazuli
+
+#extshape:concrete_fence_walls
+- extshape:white_concrete_wall
+- extshape:orange_concrete_wall
+- extshape:magenta_concrete_wall
+- extshape:light_blue_concrete_wall
+- extshape:yellow_concrete_wall
+- extshape:lime_concrete_wall
+- extshape:pink_concrete_wall
+- extshape:gray_concrete_wall
+- extshape:light_gray_concrete_wall
+- extshape:cyan_concrete_wall
+- extshape:purple_concrete_wall
+- extshape:blue_concrete_wall
+- extshape:brown_concrete_wall
+- extshape:green_concrete_wall
+- extshape:red_concrete_wall
+- extshape:black_concrete_wall
+
+#forge:gunpowder
+- minecraft:gunpowder
+
+#minecraft:fences/wooden
+- ars_nouveau:archwood_fence
+- ars_nouveau:archwood_fence
+
+#forge:dyes/magenta
+- minecraft:magenta_dye
+
+#minecraft:crimson_stems
+- minecraft:crimson_stem
+- minecraft:stripped_crimson_stem
+- minecraft:crimson_hyphae
+- minecraft:stripped_crimson_hyphae
+- decorative_blocks:crimson_beam
+
+#extshape:stained_terracotta_stairs
+- extshape:white_terracotta_stairs
+- extshape:orange_terracotta_stairs
+- extshape:magenta_terracotta_stairs
+- extshape:light_blue_terracotta_stairs
+- extshape:yellow_terracotta_stairs
+- extshape:lime_terracotta_stairs
+- extshape:pink_terracotta_stairs
+- extshape:gray_terracotta_stairs
+- extshape:light_gray_terracotta_stairs
+- extshape:cyan_terracotta_stairs
+- extshape:purple_terracotta_stairs
+- extshape:blue_terracotta_stairs
+- extshape:brown_terracotta_stairs
+- extshape:green_terracotta_stairs
+- extshape:red_terracotta_stairs
+- extshape:black_terracotta_stairs
+
+#cfm:trampoline
+- cfm:trampoline
+
+#biomesoplenty:cherry_logs
+- decorative_blocks:cherry_beam
+
+#minecraft:stone_tool_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+
+#forge:dyes/cyan
+- minecraft:cyan_dye
+
+#minecraft:planks/archwood
+- ars_nouveau:archwood_planks
+- ars_nouveau:archwood_planks
+
+#extshape:stained_terracotta_fence_walls
+- extshape:white_terracotta_wall
+- extshape:orange_terracotta_wall
+- extshape:magenta_terracotta_wall
+- extshape:light_blue_terracotta_wall
+- extshape:yellow_terracotta_wall
+- extshape:lime_terracotta_wall
+- extshape:pink_terracotta_wall
+- extshape:gray_terracotta_wall
+- extshape:light_gray_terracotta_wall
+- extshape:cyan_terracotta_wall
+- extshape:purple_terracotta_wall
+- extshape:blue_terracotta_wall
+- extshape:brown_terracotta_wall
+- extshape:green_terracotta_wall
+- extshape:red_terracotta_wall
+- extshape:black_terracotta_wall
+
+#extshape:log_slabs
+- extshape:oak_log_slab
+- extshape:spruce_log_slab
+- extshape:birch_log_slab
+- extshape:jungle_log_slab
+- extshape:acacia_log_slab
+- extshape:dark_oak_log_slab
+- extshape:stripped_oak_log_slab
+- extshape:stripped_spruce_log_slab
+- extshape:stripped_birch_log_slab
+- extshape:stripped_jungle_log_slab
+- extshape:stripped_acacia_log_slab
+- extshape:stripped_dark_oak_log_slab
+- extshape:oak_wood_slab
+- extshape:spruce_wood_slab
+- extshape:birch_wood_slab
+- extshape:jungle_wood_slab
+- extshape:acacia_wood_slab
+- extshape:dark_oak_wood_slab
+- extshape:stripped_oak_wood_slab
+- extshape:stripped_spruce_wood_slab
+- extshape:stripped_birch_wood_slab
+- extshape:stripped_jungle_wood_slab
+- extshape:stripped_acacia_wood_slab
+- extshape:stripped_dark_oak_wood_slab
+- extshape:warped_stem_slab
+- extshape:crimson_stem_slab
+- extshape:stripped_warped_stem_slab
+- extshape:stripped_crimson_stem_slab
+- extshape:warped_hyphae_slab
+- extshape:crimson_hyphae_slab
+- extshape:stripped_warped_hyphae_slab
+- extshape:stripped_crimson_hyphae_slab
+
+#forge:crops
+- #forge:crops/beetroot
+- #forge:crops/carrot
+- #forge:crops/nether_wart
+- #forge:crops/potato
+- #forge:crops/wheat
+- supplementaries:flax
+
+#extshape:terracotta_buttons
+- extshape:terracotta_button
+- #extshape:stained_terracotta_buttons
+
+#forge:seeds/wheat
+- minecraft:wheat_seeds
+
+#forge:ingots/iron
+- minecraft:iron_ingot
+
+#forge:dyes/purple
+- minecraft:purple_dye
+
+#extshape:stained_terracotta_fence_gates
+- extshape:white_terracotta_fence_gate
+- extshape:orange_terracotta_fence_gate
+- extshape:magenta_terracotta_fence_gate
+- extshape:light_blue_terracotta_fence_gate
+- extshape:yellow_terracotta_fence_gate
+- extshape:lime_terracotta_fence_gate
+- extshape:pink_terracotta_fence_gate
+- extshape:gray_terracotta_fence_gate
+- extshape:light_gray_terracotta_fence_gate
+- extshape:cyan_terracotta_fence_gate
+- extshape:purple_terracotta_fence_gate
+- extshape:blue_terracotta_fence_gate
+- extshape:brown_terracotta_fence_gate
+- extshape:green_terracotta_fence_gate
+- extshape:red_terracotta_fence_gate
+- extshape:black_terracotta_fence_gate
+
+#curios:ring
+- curios:ring
+- ars_nouveau:ring_of_lesser_discount
+- ars_nouveau:ring_of_greater_discount
+
+#supplementaries:fire_sources
+- minecraft:flint_and_steel
+- tconstruct:flint_and_bronze?
+- simply_steel:flint_and_iron?
+- simply_steel:quartz_and_iron?
+- simply_steel:quartz_and_steel?
+- realistictorches:matchbox?
+- lotr:match?
+
+#curios:charm
+
+#extshape:log_vertical_stairs
+- extshape:oak_log_vertical_stairs
+- extshape:spruce_log_vertical_stairs
+- extshape:birch_log_vertical_stairs
+- extshape:jungle_log_vertical_stairs
+- extshape:acacia_log_vertical_stairs
+- extshape:dark_oak_log_vertical_stairs
+- extshape:stripped_oak_log_vertical_stairs
+- extshape:stripped_spruce_log_vertical_stairs
+- extshape:stripped_birch_log_vertical_stairs
+- extshape:stripped_jungle_log_vertical_stairs
+- extshape:stripped_acacia_log_vertical_stairs
+- extshape:stripped_dark_oak_log_vertical_stairs
+- extshape:oak_wood_vertical_stairs
+- extshape:spruce_wood_vertical_stairs
+- extshape:birch_wood_vertical_stairs
+- extshape:jungle_wood_vertical_stairs
+- extshape:acacia_wood_vertical_stairs
+- extshape:dark_oak_wood_vertical_stairs
+- extshape:stripped_oak_wood_vertical_stairs
+- extshape:stripped_spruce_wood_vertical_stairs
+- extshape:stripped_birch_wood_vertical_stairs
+- extshape:stripped_jungle_wood_vertical_stairs
+- extshape:stripped_acacia_wood_vertical_stairs
+- extshape:stripped_dark_oak_wood_vertical_stairs
+- extshape:warped_stem_vertical_stairs
+- extshape:crimson_stem_vertical_stairs
+- extshape:stripped_warped_stem_vertical_stairs
+- extshape:stripped_crimson_stem_vertical_stairs
+- extshape:warped_hyphae_vertical_stairs
+- extshape:crimson_hyphae_vertical_stairs
+- extshape:stripped_warped_hyphae_vertical_stairs
+- extshape:stripped_crimson_hyphae_vertical_stairs
+
+#minecraft:anvil
+- minecraft:anvil
+- minecraft:chipped_anvil
+- minecraft:damaged_anvil
+
+#c:iron_blocks
+- #forge:storage_blocks/iron
+
+#minecraft:birch_logs
+- minecraft:birch_log
+- minecraft:birch_wood
+- minecraft:stripped_birch_log
+- minecraft:stripped_birch_wood
+- decorative_blocks:birch_beam
+
+#forge:sand
+- #forge:sand/colorless
+- #forge:sand/red
+
+#forge:glass_panes/purple
+- minecraft:purple_stained_glass_pane
+
+#forge:dyes/yellow
+- minecraft:yellow_dye
+
+#forge:dusts
+- #forge:dusts/glowstone
+- #forge:dusts/prismarine
+- #forge:dusts/redstone
+
+#forge:glass/yellow
+- minecraft:yellow_stained_glass
+
+#c:glass_panes
+- #forge:glass_panes
+
+#extshape:terracotta_pressure_plates
+- extshape:terracotta_pressure_plate
+- #extshape:stained_terracotta_pressure_plates
+
+#c:sandstone
+- #forge:sandstone
+
+#forge:seeds
+- #forge:seeds/beetroot
+- #forge:seeds/melon
+- #forge:seeds/pumpkin
+- #forge:seeds/wheat
+- supplementaries:flax_seeds
+- ars_nouveau:mana_bloom_crop
+
+#extshape:concrete_vertical_stairs
+- extshape:white_concrete_vertical_stairs
+- extshape:orange_concrete_vertical_stairs
+- extshape:magenta_concrete_vertical_stairs
+- extshape:light_blue_concrete_vertical_stairs
+- extshape:yellow_concrete_vertical_stairs
+- extshape:lime_concrete_vertical_stairs
+- extshape:pink_concrete_vertical_stairs
+- extshape:gray_concrete_vertical_stairs
+- extshape:light_gray_concrete_vertical_stairs
+- extshape:cyan_concrete_vertical_stairs
+- extshape:purple_concrete_vertical_stairs
+- extshape:blue_concrete_vertical_stairs
+- extshape:brown_concrete_vertical_stairs
+- extshape:green_concrete_vertical_stairs
+- extshape:red_concrete_vertical_stairs
+- extshape:black_concrete_vertical_stairs
+
+#forge:gems/prismarine
+- minecraft:prismarine_crystals
+
+#cfm:outdoors
+- #cfm:fence_gates/upgraded
+- #cfm:fences/upgraded
+- cfm:oak_park_bench
+- cfm:spruce_park_bench
+- cfm:birch_park_bench
+- cfm:jungle_park_bench
+- cfm:acacia_park_bench
+- cfm:dark_oak_park_bench
+- cfm:stripped_oak_park_bench
+- cfm:stripped_spruce_park_bench
+- cfm:stripped_birch_park_bench
+- cfm:stripped_jungle_park_bench
+- cfm:stripped_acacia_park_bench
+- cfm:stripped_dark_oak_park_bench
+- cfm:post_box
+- cfm:oak_mail_box
+- cfm:spruce_mail_box
+- cfm:birch_mail_box
+- cfm:jungle_mail_box
+- cfm:acacia_mail_box
+- cfm:dark_oak_mail_box
+- cfm:stripped_oak_mail_box
+- cfm:stripped_spruce_mail_box
+- cfm:stripped_birch_mail_box
+- cfm:stripped_jungle_mail_box
+- cfm:stripped_acacia_mail_box
+- cfm:stripped_dark_oak_mail_box
+- #cfm:fences/hedge
+- cfm:rock_path
+- cfm:trampoline
+- cfm:white_cooler
+- cfm:orange_cooler
+- cfm:magenta_cooler
+- cfm:light_blue_cooler
+- cfm:yellow_cooler
+- cfm:lime_cooler
+- cfm:pink_cooler
+- cfm:gray_cooler
+- cfm:light_gray_cooler
+- cfm:cyan_cooler
+- cfm:purple_cooler
+- cfm:blue_cooler
+- cfm:brown_cooler
+- cfm:green_cooler
+- cfm:red_cooler
+- cfm:black_cooler
+- cfm:white_grill
+- cfm:orange_grill
+- cfm:magenta_grill
+- cfm:light_blue_grill
+- cfm:yellow_grill
+- cfm:lime_grill
+- cfm:pink_grill
+- cfm:gray_grill
+- cfm:light_gray_grill
+- cfm:cyan_grill
+- cfm:purple_grill
+- cfm:blue_grill
+- cfm:brown_grill
+- cfm:green_grill
+- cfm:red_grill
+- cfm:black_grill
+- cfm:spatula
+
+#forge:ores/gold
+- #minecraft:gold_ores
+
+#minecraft:oak_logs
+- minecraft:oak_log
+- minecraft:oak_wood
+- minecraft:stripped_oak_log
+- minecraft:stripped_oak_wood
+- decorative_blocks:oak_beam
+
+#extshape:woolen_stairs
+- extshape:white_wool_stairs
+- extshape:orange_wool_stairs
+- extshape:magenta_wool_stairs
+- extshape:light_blue_wool_stairs
+- extshape:yellow_wool_stairs
+- extshape:lime_wool_stairs
+- extshape:pink_wool_stairs
+- extshape:gray_wool_stairs
+- extshape:light_gray_wool_stairs
+- extshape:cyan_wool_stairs
+- extshape:purple_wool_stairs
+- extshape:blue_wool_stairs
+- extshape:brown_wool_stairs
+- extshape:green_wool_stairs
+- extshape:red_wool_stairs
+- extshape:black_wool_stairs
+
+#extshape:concrete_fence_gates
+- extshape:white_concrete_fence_gate
+- extshape:orange_concrete_fence_gate
+- extshape:magenta_concrete_fence_gate
+- extshape:light_blue_concrete_fence_gate
+- extshape:yellow_concrete_fence_gate
+- extshape:lime_concrete_fence_gate
+- extshape:pink_concrete_fence_gate
+- extshape:gray_concrete_fence_gate
+- extshape:light_gray_concrete_fence_gate
+- extshape:cyan_concrete_fence_gate
+- extshape:purple_concrete_fence_gate
+- extshape:blue_concrete_fence_gate
+- extshape:brown_concrete_fence_gate
+- extshape:green_concrete_fence_gate
+- extshape:red_concrete_fence_gate
+- extshape:black_concrete_fence_gate
+
+#additionalbars:bars/wooden
+- additionalbars:acacia_bars
+- additionalbars:birch_bars
+- additionalbars:dark_oak_bars
+- additionalbars:jungle_bars
+- additionalbars:oak_bars
+- additionalbars:spruce_bars
+- additionalbars:crimson_bars
+- additionalbars:warped_bars
+- additionalbars:crossed_acacia_bars
+- additionalbars:crossed_birch_bars
+- additionalbars:crossed_dark_oak_bars
+- additionalbars:crossed_jungle_bars
+- additionalbars:crossed_oak_bars
+- additionalbars:crossed_spruce_bars
+- additionalbars:crossed_crimson_bars
+- additionalbars:crossed_warped_bars
+- additionalbars:horizontal_acacia_bars
+- additionalbars:horizontal_birch_bars
+- additionalbars:horizontal_dark_oak_bars
+- additionalbars:horizontal_jungle_bars
+- additionalbars:horizontal_oak_bars
+- additionalbars:horizontal_spruce_bars
+- additionalbars:horizontal_crimson_bars
+- additionalbars:horizontal_warped_bars
+- additionalbars:horizontal_crossed_acacia_bars
+- additionalbars:horizontal_crossed_birch_bars
+- additionalbars:horizontal_crossed_dark_oak_bars
+- additionalbars:horizontal_crossed_jungle_bars
+- additionalbars:horizontal_crossed_oak_bars
+- additionalbars:horizontal_crossed_spruce_bars
+- additionalbars:horizontal_crossed_crimson_bars
+- additionalbars:horizontal_crossed_warped_bars
+
+#additionalbars:bars
+- #additionalbars:bars/wooden
+- #additionalbars:bars/metallic
+
+#extshape:woolen_buttons
+- extshape:white_wool_button
+- extshape:orange_wool_button
+- extshape:magenta_wool_button
+- extshape:light_blue_wool_button
+- extshape:yellow_wool_button
+- extshape:lime_wool_button
+- extshape:pink_wool_button
+- extshape:gray_wool_button
+- extshape:light_gray_wool_button
+- extshape:cyan_wool_button
+- extshape:purple_wool_button
+- extshape:blue_wool_button
+- extshape:brown_wool_button
+- extshape:green_wool_button
+- extshape:red_wool_button
+- extshape:black_wool_button
+
+#c:diamonds
+- #forge:gems/diamond
+
+#minecraft:stone_crafting_materials
+- minecraft:cobblestone
+- minecraft:blackstone
+
+#minecraft:piglin_repellents
+- minecraft:soul_torch
+- minecraft:soul_lantern
+- minecraft:soul_campfire
+- supplementaries:sconce_soul
+
+#extshape:stained_terracotta_buttons
+- extshape:white_terracotta_button
+- extshape:orange_terracotta_button
+- extshape:magenta_terracotta_button
+- extshape:light_blue_terracotta_button
+- extshape:yellow_terracotta_button
+- extshape:lime_terracotta_button
+- extshape:pink_terracotta_button
+- extshape:gray_terracotta_button
+- extshape:light_gray_terracotta_button
+- extshape:cyan_terracotta_button
+- extshape:purple_terracotta_button
+- extshape:blue_terracotta_button
+- extshape:brown_terracotta_button
+- extshape:green_terracotta_button
+- extshape:red_terracotta_button
+- extshape:black_terracotta_button
+
+#forge:ores/lapis
+- minecraft:lapis_ore
+
+#biomesoplenty:palm_logs
+- decorative_blocks:palm_beam
+
+#forge:glass/black
+- minecraft:black_stained_glass
+
+#biomesoplenty:dead_logs
+- decorative_blocks:dead_beam
+
+#extshape:concrete_slabs
+- extshape:white_concrete_slab
+- extshape:orange_concrete_slab
+- extshape:magenta_concrete_slab
+- extshape:light_blue_concrete_slab
+- extshape:yellow_concrete_slab
+- extshape:lime_concrete_slab
+- extshape:pink_concrete_slab
+- extshape:gray_concrete_slab
+- extshape:light_gray_concrete_slab
+- extshape:cyan_concrete_slab
+- extshape:purple_concrete_slab
+- extshape:blue_concrete_slab
+- extshape:brown_concrete_slab
+- extshape:green_concrete_slab
+- extshape:red_concrete_slab
+- extshape:black_concrete_slab
+
+#curios:belt
+- ars_nouveau:belt_of_levitation
+- ars_nouveau:belt_of_unstable_gifts
+
+#forge:slimeballs
+- minecraft:slime_ball
+
+#forge:dirt
+- supplementaries:fodder
+
+#extshape:woolen_quarter_pieces
+- extshape:white_wool_quarter_piece
+- extshape:orange_wool_quarter_piece
+- extshape:magenta_wool_quarter_piece
+- extshape:light_blue_wool_quarter_piece
+- extshape:yellow_wool_quarter_piece
+- extshape:lime_wool_quarter_piece
+- extshape:pink_wool_quarter_piece
+- extshape:gray_wool_quarter_piece
+- extshape:light_gray_wool_quarter_piece
+- extshape:cyan_wool_quarter_piece
+- extshape:purple_wool_quarter_piece
+- extshape:blue_wool_quarter_piece
+- extshape:brown_wool_quarter_piece
+- extshape:green_wool_quarter_piece
+- extshape:red_wool_quarter_piece
+- extshape:black_wool_quarter_piece
+
+#forge:fences/nether_brick
+- minecraft:nether_brick_fence
+
+#extshape:wooden_walls
+- extshape:oak_wall
+- extshape:spruce_wall
+- extshape:birch_wall
+- extshape:jungle_wall
+- extshape:acacia_wall
+- extshape:dark_oak_wall
+- extshape:crimson_wall
+- extshape:warped_wall
+
+#forge:rods
+- #forge:rods/blaze
+- #forge:rods/wooden
+
+#forge:glass/lime
+- minecraft:lime_stained_glass
+
+#forge:chests/wooden
+- minecraft:chest
+- minecraft:trapped_chest
+
+#forge:ores/iron
+- minecraft:iron_ore
+
+#extshape:stained_terracotta_quarter_pieces
+- extshape:white_terracotta_quarter_piece
+- extshape:orange_terracotta_quarter_piece
+- extshape:magenta_terracotta_quarter_piece
+- extshape:light_blue_terracotta_quarter_piece
+- extshape:yellow_terracotta_quarter_piece
+- extshape:lime_terracotta_quarter_piece
+- extshape:pink_terracotta_quarter_piece
+- extshape:gray_terracotta_quarter_piece
+- extshape:light_gray_terracotta_quarter_piece
+- extshape:cyan_terracotta_quarter_piece
+- extshape:purple_terracotta_quarter_piece
+- extshape:blue_terracotta_quarter_piece
+- extshape:brown_terracotta_quarter_piece
+- extshape:green_terracotta_quarter_piece
+- extshape:red_terracotta_quarter_piece
+- extshape:black_terracotta_quarter_piece
+
+#armourers_workshop:skinnable/shovels
+- minecraft:wooden_shovel
+- minecraft:stone_shovel
+- minecraft:iron_shovel
+- minecraft:golden_shovel
+- minecraft:diamond_shovel
+- minecraft:netherite_shovel
+
+#minecraft:pressure_plates
+- extshape:granite_pressure_plate
+- extshape:polished_granite_pressure_plate
+- extshape:diorite_pressure_plate
+- extshape:polished_diorite_pressure_plate
+- extshape:andesite_pressure_plate
+- extshape:polished_andesite_pressure_plate
+- extshape:dirt_pressure_plate
+- extshape:cobblestone_pressure_plate
+- extshape:bedrock_pressure_plate
+- extshape:lapis_pressure_plate
+- extshape:smooth_sandstone_pressure_plate
+- extshape:smooth_red_sandstone_pressure_plate
+- extshape:mossy_cobblestone_pressure_plate
+- extshape:obsidian_pressure_plate
+- extshape:diamond_pressure_plate
+- extshape:snow_pressure_plate
+- extshape:clay_pressure_plate
+- extshape:pumpkin_pressure_plate
+- extshape:netherrack_pressure_plate
+- extshape:glowstone_pressure_plate
+- extshape:melon_pressure_plate
+- extshape:nether_brick_pressure_plate
+- extshape:end_stone_pressure_plate
+- extshape:emerald_pressure_plate
+- extshape:quartz_pressure_plate
+- extshape:chiseled_quartz_pressure_plate
+- extshape:quartz_brick_pressure_plate
+- extshape:smooth_quartz_pressure_plate
+- extshape:red_nether_brick_pressure_plate
+- extshape:coal_pressure_plate
+- extshape:packed_ice_pressure_plate
+- extshape:prismarine_pressure_plate
+- extshape:prismarine_brick_pressure_plate
+- extshape:dark_prismarine_pressure_plate
+- extshape:smooth_stone_pressure_plate
+- extshape:purpur_pressure_plate
+- extshape:shroomlight_pressure_plate
+- extshape:honeycomb_pressure_plate
+- extshape:netherite_pressure_plate
+- extshape:ancient_debris_pressure_plate
+- extshape:crying_obsidian_pressure_plate
+- extshape:basalt_pressure_plate
+- extshape:polished_basalt_pressure_plate
+- #extshape:log_pressure_plates
+- #extshape:woolen_pressure_plates
+- #extshape:concrete_pressure_plates
+- #extshape:terracotta_pressure_plates
+
+#minecraft:jungle_logs
+- minecraft:jungle_log
+- minecraft:jungle_wood
+- minecraft:stripped_jungle_log
+- minecraft:stripped_jungle_wood
+- decorative_blocks:jungle_beam
+
+#cfm:fences/hedge
+- cfm:oak_hedge
+- cfm:spruce_hedge
+- cfm:birch_hedge
+- cfm:jungle_hedge
+- cfm:acacia_hedge
+- cfm:dark_oak_hedge
+
+#extshape:terracotta_stairs
+- extshape:terracotta_stairs
+- #extshape:stained_terracotta_stairs
+
+#minecraft:lectern_books
+- minecraft:written_book
+- minecraft:writable_book
+- patchouli:guide_book
+
+#forge:gems/emerald
+- minecraft:emerald
+
+#forge:chests/ender
+- minecraft:ender_chest
+
+#minecraft:wooden_stairs
+- minecraft:oak_stairs
+- minecraft:spruce_stairs
+- minecraft:birch_stairs
+- minecraft:jungle_stairs
+- minecraft:acacia_stairs
+- minecraft:dark_oak_stairs
+- minecraft:crimson_stairs
+- minecraft:warped_stairs
+- ars_nouveau:archwood_stairs
+
+#minecraft:spruce_logs
+- minecraft:spruce_log
+- minecraft:spruce_wood
+- minecraft:stripped_spruce_log
+- minecraft:stripped_spruce_wood
+- decorative_blocks:spruce_beam
+
+#c:glowstone_dusts
+- #forge:dusts/glowstone
+
+#minecraft:carpets
+- minecraft:white_carpet
+- minecraft:orange_carpet
+- minecraft:magenta_carpet
+- minecraft:light_blue_carpet
+- minecraft:yellow_carpet
+- minecraft:lime_carpet
+- minecraft:pink_carpet
+- minecraft:gray_carpet
+- minecraft:light_gray_carpet
+- minecraft:cyan_carpet
+- minecraft:purple_carpet
+- minecraft:blue_carpet
+- minecraft:brown_carpet
+- minecraft:green_carpet
+- minecraft:red_carpet
+- minecraft:black_carpet
+
+#minecraft:wooden_buttons
+- minecraft:oak_button
+- minecraft:spruce_button
+- minecraft:birch_button
+- minecraft:jungle_button
+- minecraft:acacia_button
+- minecraft:dark_oak_button
+- minecraft:crimson_button
+- minecraft:warped_button
+- ars_nouveau:archwood_button
+
+#biomesoplenty:umbran_logs
+- decorative_blocks:umbran_beam
+
+#forge:fence_gates/wooden
+- minecraft:oak_fence_gate
+- minecraft:spruce_fence_gate
+- minecraft:birch_fence_gate
+- minecraft:jungle_fence_gate
+- minecraft:acacia_fence_gate
+- minecraft:dark_oak_fence_gate
+- minecraft:crimson_fence_gate
+- minecraft:warped_fence_gate
+
+#minecraft:stone_bricks
+- minecraft:stone_bricks
+- minecraft:mossy_stone_bricks
+- minecraft:cracked_stone_bricks
+- minecraft:chiseled_stone_bricks
+
+#forge:storage_blocks/quartz
+- minecraft:quartz_block
+
+#armourers_workshop:skinnable/pickaxes
+- minecraft:wooden_pickaxe
+- minecraft:stone_pickaxe
+- minecraft:iron_pickaxe
+- minecraft:golden_pickaxe
+- minecraft:diamond_pickaxe
+- minecraft:netherite_pickaxe
+
+#extshape:concrete_pressure_plates
+- extshape:white_concrete_pressure_plate
+- extshape:orange_concrete_pressure_plate
+- extshape:magenta_concrete_pressure_plate
+- extshape:light_blue_concrete_pressure_plate
+- extshape:yellow_concrete_pressure_plate
+- extshape:lime_concrete_pressure_plate
+- extshape:pink_concrete_pressure_plate
+- extshape:gray_concrete_pressure_plate
+- extshape:light_gray_concrete_pressure_plate
+- extshape:cyan_concrete_pressure_plate
+- extshape:purple_concrete_pressure_plate
+- extshape:blue_concrete_pressure_plate
+- extshape:brown_concrete_pressure_plate
+- extshape:green_concrete_pressure_plate
+- extshape:red_concrete_pressure_plate
+- extshape:black_concrete_pressure_plate
+
+#forge:glass/orange
+- minecraft:orange_stained_glass
+
+#forge:glass_panes/lime
+- minecraft:lime_stained_glass_pane
+
+#forge:shears
+- minecraft:shears
+
+#extshape:stained_terracotta_fences
+- extshape:white_terracotta_fence
+- extshape:orange_terracotta_fence
+- extshape:magenta_terracotta_fence
+- extshape:light_blue_terracotta_fence
+- extshape:yellow_terracotta_fence
+- extshape:lime_terracotta_fence
+- extshape:pink_terracotta_fence
+- extshape:gray_terracotta_fence
+- extshape:light_gray_terracotta_fence
+- extshape:cyan_terracotta_fence
+- extshape:purple_terracotta_fence
+- extshape:blue_terracotta_fence
+- extshape:brown_terracotta_fence
+- extshape:green_terracotta_fence
+- extshape:red_terracotta_fence
+- extshape:black_terracotta_fence
+
+#forge:dyes/green
+- minecraft:green_dye
+
+#sereneseasons:spring_crops
+- supplementaries:flax
+
+#forge:planks/archwood
+- ars_nouveau:archwood_planks
+
+#minecraft:slabs
+- #minecraft:wooden_slabs
+- minecraft:stone_slab
+- minecraft:smooth_stone_slab
+- minecraft:stone_brick_slab
+- minecraft:sandstone_slab
+- minecraft:purpur_slab
+- minecraft:quartz_slab
+- minecraft:red_sandstone_slab
+- minecraft:brick_slab
+- minecraft:cobblestone_slab
+- minecraft:nether_brick_slab
+- minecraft:petrified_oak_slab
+- minecraft:prismarine_slab
+- minecraft:prismarine_brick_slab
+- minecraft:dark_prismarine_slab
+- minecraft:polished_granite_slab
+- minecraft:smooth_red_sandstone_slab
+- minecraft:mossy_stone_brick_slab
+- minecraft:polished_diorite_slab
+- minecraft:mossy_cobblestone_slab
+- minecraft:end_stone_brick_slab
+- minecraft:smooth_sandstone_slab
+- minecraft:smooth_quartz_slab
+- minecraft:granite_slab
+- minecraft:andesite_slab
+- minecraft:red_nether_brick_slab
+- minecraft:polished_andesite_slab
+- minecraft:diorite_slab
+- minecraft:cut_sandstone_slab
+- minecraft:cut_red_sandstone_slab
+- minecraft:blackstone_slab
+- minecraft:polished_blackstone_brick_slab
+- minecraft:polished_blackstone_slab
+- supplementaries:checker_slab
+- supplementaries:stone_tile_slab
+- supplementaries:blackstone_tile_slab
+- ars_nouveau:archwood_slab
+- extshape:dirt_slab
+- extshape:coarse_dirt_slab
+- extshape:bedrock_slab
+- extshape:lapis_slab
+- extshape:chiseled_sandstone_slab
+- extshape:chiseled_red_sandstone_slab
+- extshape:gold_slab
+- extshape:iron_slab
+- extshape:obsidian_slab
+- extshape:diamond_slab
+- extshape:snow_slab
+- extshape:clay_slab
+- extshape:pumpkin_slab
+- extshape:netherrack_slab
+- extshape:glowstone_slab
+- extshape:chiseled_stone_brick_slab
+- extshape:melon_slab
+- extshape:end_stone_slab
+- extshape:emerald_slab
+- extshape:chiseled_quartz_slab
+- extshape:quartz_brick_slab
+- extshape:coal_slab
+- extshape:packed_ice_slab
+- extshape:sea_lantern_slab
+- extshape:nether_wart_slab
+- extshape:warped_wart_slab
+- extshape:shroomlight_slab
+- extshape:honeycomb_slab
+- extshape:netherite_slab
+- extshape:ancient_debris_slab
+- extshape:crying_obsidian_slab
+- extshape:chiseled_polished_blackstone_slab
+- extshape:gilded_blackstone_slab
+- extshape:chiseled_nether_brick_slab
+- extshape:basalt_slab
+- extshape:polished_basalt_slab
+- #extshape:log_slabs
+- #extshape:woolen_slabs
+- #extshape:concrete_slabs
+- #extshape:terracotta_slabs
+- #extshape:glazed_terracotta_slabs
+
+#supplementaries:pedestal_upright
+- minecraft:wooden_sword
+
+#forge:grain
+- minecraft:wheat
+
+#extshape:vertical_quarter_pieces
+- extshape:stone_vertical_quarter_piece
+- extshape:granite_vertical_quarter_piece
+- extshape:polished_granite_vertical_quarter_piece
+- extshape:diorite_vertical_quarter_piece
+- extshape:polished_diorite_vertical_quarter_piece
+- extshape:andesite_vertical_quarter_piece
+- extshape:polished_andesite_vertical_quarter_piece
+- extshape:dirt_vertical_quarter_piece
+- extshape:coarse_dirt_vertical_quarter_piece
+- extshape:cobblestone_vertical_quarter_piece
+- extshape:bedrock_vertical_quarter_piece
+- extshape:lapis_vertical_quarter_piece
+- extshape:sandstone_vertical_quarter_piece
+- extshape:cut_sandstone_vertical_quarter_piece
+- extshape:chiseled_sandstone_vertical_quarter_piece
+- extshape:smooth_sandstone_vertical_quarter_piece
+- extshape:red_sandstone_vertical_quarter_piece
+- extshape:cut_red_sandstone_vertical_quarter_piece
+- extshape:chiseled_red_sandstone_vertical_quarter_piece
+- extshape:smooth_red_sandstone_vertical_quarter_piece
+- extshape:gold_vertical_quarter_piece
+- extshape:iron_vertical_quarter_piece
+- extshape:brick_vertical_quarter_piece
+- extshape:mossy_cobblestone_vertical_quarter_piece
+- extshape:obsidian_vertical_quarter_piece
+- extshape:diamond_vertical_quarter_piece
+- extshape:snow_vertical_quarter_piece
+- extshape:clay_vertical_quarter_piece
+- extshape:pumpkin_vertical_quarter_piece
+- extshape:netherrack_vertical_quarter_piece
+- extshape:glowstone_vertical_quarter_piece
+- extshape:stone_brick_vertical_quarter_piece
+- extshape:mossy_stone_brick_vertical_quarter_piece
+- extshape:chiseled_stone_brick_vertical_quarter_piece
+- extshape:melon_vertical_quarter_piece
+- extshape:nether_brick_vertical_quarter_piece
+- extshape:end_stone_vertical_quarter_piece
+- extshape:emerald_vertical_quarter_piece
+- extshape:quartz_vertical_quarter_piece
+- extshape:chiseled_quartz_vertical_quarter_piece
+- extshape:quartz_brick_vertical_quarter_piece
+- extshape:smooth_quartz_vertical_quarter_piece
+- extshape:red_nether_brick_vertical_quarter_piece
+- extshape:coal_vertical_quarter_piece
+- extshape:packed_ice_vertical_quarter_piece
+- extshape:prismarine_vertical_quarter_piece
+- extshape:prismarine_brick_vertical_quarter_piece
+- extshape:dark_prismarine_vertical_quarter_piece
+- extshape:sea_lantern_vertical_quarter_piece
+- extshape:purpur_vertical_quarter_piece
+- extshape:nether_wart_vertical_quarter_piece
+- extshape:warped_wart_vertical_quarter_piece
+- extshape:shroomlight_vertical_quarter_piece
+- extshape:honeycomb_vertical_quarter_piece
+- extshape:netherite_vertical_quarter_piece
+- extshape:ancient_debris_vertical_quarter_piece
+- extshape:crying_obsidian_vertical_quarter_piece
+- extshape:blackstone_vertical_quarter_piece
+- extshape:polished_blackstone_vertical_quarter_piece
+- extshape:polished_blackstone_brick_vertical_quarter_piece
+- extshape:chiseled_polished_blackstone_vertical_quarter_piece
+- extshape:gilded_blackstone_vertical_quarter_piece
+- extshape:chiseled_nether_brick_vertical_quarter_piece
+- extshape:basalt_vertical_quarter_piece
+- extshape:polished_basalt_vertical_quarter_piece
+- #extshape:log_vertical_quarter_pieces
+- #extshape:wooden_vertical_quarter_pieces
+- #extshape:woolen_vertical_quarter_pieces
+- #extshape:concrete_vertical_quarter_pieces
+- #extshape:terracotta_vertical_quarter_pieces
+
+#forge:ores/emerald
+- minecraft:emerald_ore
+
+#forge:logs
+- ars_nouveau:blue_archwood_log
+- ars_nouveau:red_archwood_log
+- ars_nouveau:green_archwood_log
+- ars_nouveau:purple_archwood_log
+- ars_nouveau:blue_archwood_wood
+- ars_nouveau:red_archwood_wood
+- ars_nouveau:green_archwood_wood
+- ars_nouveau:purple_archwood_wood
+
+#forge:dyes/lime
+- minecraft:lime_dye
+
+#supplementaries:candles
+- #cavesandcliffs:candles?
+- #buzzier_bees:candles?
+- #quark:candles?
+- caves_and_cliffs_mod:candle?
+- forbidden_arcanus:candle?
+- buzzier_bees:candle?
+- lotr:candle?
+- eidon:candle?
+- buildersaddiction:large_candle?
+- buildersaddiction:large_soul_candle?
+
+#forge:storage_blocks/mana
+- ars_nouveau:mana_gem_block
+
+#c:red_dyes
+- #forge:dyes/red
+
+#minecraft:flowers
+- #minecraft:small_flowers
+- #minecraft:tall_flowers
+
+#minecraft:buttons
+- #minecraft:wooden_buttons
+- minecraft:stone_button
+- minecraft:polished_blackstone_button
+- ars_nouveau:archwood_button
+- extshape:granite_button
+- extshape:polished_granite_button
+- extshape:diorite_button
+- extshape:polished_diorite_button
+- extshape:andesite_button
+- extshape:polished_andesite_button
+- extshape:dirt_button
+- extshape:cobblestone_button
+- extshape:bedrock_button
+- extshape:lapis_button
+- extshape:smooth_sandstone_button
+- extshape:smooth_red_sandstone_button
+- extshape:gold_button
+- extshape:iron_button
+- extshape:mossy_cobblestone_button
+- extshape:obsidian_button
+- extshape:diamond_button
+- extshape:snow_button
+- extshape:clay_button
+- extshape:pumpkin_button
+- extshape:netherrack_button
+- extshape:glowstone_button
+- extshape:melon_button
+- extshape:nether_brick_button
+- extshape:end_stone_button
+- extshape:emerald_button
+- extshape:quartz_button
+- extshape:chiseled_quartz_button
+- extshape:quartz_brick_button
+- extshape:smooth_quartz_button
+- extshape:red_nether_brick_button
+- extshape:coal_button
+- extshape:packed_ice_button
+- extshape:prismarine_button
+- extshape:prismarine_brick_button
+- extshape:dark_prismarine_button
+- extshape:smooth_stone_button
+- extshape:purpur_button
+- extshape:shroomlight_button
+- extshape:honeycomb_button
+- extshape:netherite_button
+- extshape:ancient_debris_button
+- extshape:crying_obsidian_button
+- extshape:basalt_button
+- extshape:polished_basalt_button
+- #extshape:log_buttons
+- #extshape:woolen_buttons
+- #extshape:concrete_buttons
+- #extshape:terracotta_buttons
+
+#forge:shulker_boxes
+- minecraft:shulker_box
+- minecraft:black_shulker_box
+- minecraft:blue_shulker_box
+- minecraft:brown_shulker_box
+- minecraft:cyan_shulker_box
+- minecraft:gray_shulker_box
+- minecraft:green_shulker_box
+- minecraft:light_blue_shulker_box
+- minecraft:light_gray_shulker_box
+- minecraft:lime_shulker_box
+- minecraft:magenta_shulker_box
+- minecraft:orange_shulker_box
+- minecraft:pink_shulker_box
+- minecraft:purple_shulker_box
+- minecraft:red_shulker_box
+- minecraft:white_shulker_box
+- minecraft:yellow_shulker_box
+
+#minecraft:planks
+- minecraft:oak_planks
+- minecraft:spruce_planks
+- minecraft:birch_planks
+- minecraft:jungle_planks
+- minecraft:acacia_planks
+- minecraft:dark_oak_planks
+- minecraft:crimson_planks
+- minecraft:warped_planks
+- ars_nouveau:archwood_planks
+
+#extshape:vertical_stairs
+- extshape:stone_vertical_stairs
+- extshape:granite_vertical_stairs
+- extshape:polished_granite_vertical_stairs
+- extshape:diorite_vertical_stairs
+- extshape:polished_diorite_vertical_stairs
+- extshape:andesite_vertical_stairs
+- extshape:polished_andesite_vertical_stairs
+- extshape:dirt_vertical_stairs
+- extshape:coarse_dirt_vertical_stairs
+- extshape:cobblestone_vertical_stairs
+- extshape:bedrock_vertical_stairs
+- extshape:lapis_vertical_stairs
+- extshape:sandstone_vertical_stairs
+- extshape:cut_sandstone_vertical_stairs
+- extshape:chiseled_sandstone_vertical_stairs
+- extshape:smooth_sandstone_vertical_stairs
+- extshape:red_sandstone_vertical_stairs
+- extshape:cut_red_sandstone_vertical_stairs
+- extshape:chiseled_red_sandstone_vertical_stairs
+- extshape:smooth_red_sandstone_vertical_stairs
+- extshape:gold_vertical_stairs
+- extshape:iron_vertical_stairs
+- extshape:brick_vertical_stairs
+- extshape:mossy_cobblestone_vertical_stairs
+- extshape:obsidian_vertical_stairs
+- extshape:diamond_vertical_stairs
+- extshape:snow_vertical_stairs
+- extshape:clay_vertical_stairs
+- extshape:pumpkin_vertical_stairs
+- extshape:netherrack_vertical_stairs
+- extshape:glowstone_vertical_stairs
+- extshape:stone_brick_vertical_stairs
+- extshape:mossy_stone_brick_vertical_stairs
+- extshape:chiseled_stone_brick_vertical_stairs
+- extshape:melon_vertical_stairs
+- extshape:nether_brick_vertical_stairs
+- extshape:end_stone_vertical_stairs
+- extshape:emerald_vertical_stairs
+- extshape:quartz_vertical_stairs
+- extshape:chiseled_quartz_vertical_stairs
+- extshape:quartz_brick_vertical_stairs
+- extshape:smooth_quartz_vertical_stairs
+- extshape:red_nether_brick_vertical_stairs
+- extshape:coal_vertical_stairs
+- extshape:packed_ice_vertical_stairs
+- extshape:prismarine_vertical_stairs
+- extshape:prismarine_brick_vertical_stairs
+- extshape:dark_prismarine_vertical_stairs
+- extshape:sea_lantern_vertical_stairs
+- extshape:purpur_vertical_stairs
+- extshape:nether_wart_vertical_stairs
+- extshape:warped_wart_vertical_stairs
+- extshape:shroomlight_vertical_stairs
+- extshape:honeycomb_vertical_stairs
+- extshape:netherite_vertical_stairs
+- extshape:ancient_debris_vertical_stairs
+- extshape:crying_obsidian_vertical_stairs
+- extshape:blackstone_vertical_stairs
+- extshape:polished_blackstone_vertical_stairs
+- extshape:polished_blackstone_brick_vertical_stairs
+- extshape:chiseled_polished_blackstone_vertical_stairs
+- extshape:gilded_blackstone_vertical_stairs
+- extshape:chiseled_nether_brick_vertical_stairs
+- extshape:basalt_vertical_stairs
+- extshape:polished_basalt_vertical_stairs
+- #extshape:log_vertical_stairs
+- #extshape:wooden_vertical_stairs
+- #extshape:woolen_vertical_stairs
+- #extshape:concrete_vertical_stairs
+- #extshape:terracotta_vertical_stairs
+
+#extshape:concrete_quarter_pieces
+- extshape:white_concrete_quarter_piece
+- extshape:orange_concrete_quarter_piece
+- extshape:magenta_concrete_quarter_piece
+- extshape:light_blue_concrete_quarter_piece
+- extshape:yellow_concrete_quarter_piece
+- extshape:lime_concrete_quarter_piece
+- extshape:pink_concrete_quarter_piece
+- extshape:gray_concrete_quarter_piece
+- extshape:light_gray_concrete_quarter_piece
+- extshape:cyan_concrete_quarter_piece
+- extshape:purple_concrete_quarter_piece
+- extshape:blue_concrete_quarter_piece
+- extshape:brown_concrete_quarter_piece
+- extshape:green_concrete_quarter_piece
+- extshape:red_concrete_quarter_piece
+- extshape:black_concrete_quarter_piece
+
+#forge:cobblestone
+- minecraft:cobblestone
+- minecraft:infested_cobblestone
+- minecraft:mossy_cobblestone
+
+#extshape:concrete_fences
+- extshape:white_concrete_fence
+- extshape:orange_concrete_fence
+- extshape:magenta_concrete_fence
+- extshape:light_blue_concrete_fence
+- extshape:yellow_concrete_fence
+- extshape:lime_concrete_fence
+- extshape:pink_concrete_fence
+- extshape:gray_concrete_fence
+- extshape:light_gray_concrete_fence
+- extshape:cyan_concrete_fence
+- extshape:purple_concrete_fence
+- extshape:blue_concrete_fence
+- extshape:brown_concrete_fence
+- extshape:green_concrete_fence
+- extshape:red_concrete_fence
+- extshape:black_concrete_fence
+
+#extshape:woolen_pressure_plates
+- extshape:white_wool_pressure_plate
+- extshape:orange_wool_pressure_plate
+- extshape:magenta_wool_pressure_plate
+- extshape:light_blue_wool_pressure_plate
+- extshape:yellow_wool_pressure_plate
+- extshape:lime_wool_pressure_plate
+- extshape:pink_wool_pressure_plate
+- extshape:gray_wool_pressure_plate
+- extshape:light_gray_wool_pressure_plate
+- extshape:cyan_wool_pressure_plate
+- extshape:purple_wool_pressure_plate
+- extshape:blue_wool_pressure_plate
+- extshape:brown_wool_pressure_plate
+- extshape:green_wool_pressure_plate
+- extshape:red_wool_pressure_plate
+- extshape:black_wool_pressure_plate
+
+#minecraft:rails
+- minecraft:rail
+- minecraft:powered_rail
+- minecraft:detector_rail
+- minecraft:activator_rail
+
+#cfm:bedroom
+- cfm:oak_bedside_cabinet
+- cfm:spruce_bedside_cabinet
+- cfm:birch_bedside_cabinet
+- cfm:jungle_bedside_cabinet
+- cfm:acacia_bedside_cabinet
+- cfm:dark_oak_bedside_cabinet
+- cfm:stone_bedside_cabinet
+- cfm:granite_bedside_cabinet
+- cfm:diorite_bedside_cabinet
+- cfm:andesite_bedside_cabinet
+- cfm:stripped_oak_bedside_cabinet
+- cfm:stripped_spruce_bedside_cabinet
+- cfm:stripped_birch_bedside_cabinet
+- cfm:stripped_jungle_bedside_cabinet
+- cfm:stripped_acacia_bedside_cabinet
+- cfm:stripped_dark_oak_bedside_cabinet
+- cfm:oak_desk
+- cfm:spruce_desk
+- cfm:birch_desk
+- cfm:jungle_desk
+- cfm:acacia_desk
+- cfm:dark_oak_desk
+- cfm:stone_desk
+- cfm:granite_desk
+- cfm:diorite_desk
+- cfm:andesite_desk
+- cfm:stripped_oak_desk
+- cfm:stripped_spruce_desk
+- cfm:stripped_birch_desk
+- cfm:stripped_jungle_desk
+- cfm:stripped_acacia_desk
+- cfm:stripped_dark_oak_desk
+- cfm:oak_desk_cabinet
+- cfm:spruce_desk_cabinet
+- cfm:birch_desk_cabinet
+- cfm:jungle_desk_cabinet
+- cfm:acacia_desk_cabinet
+- cfm:dark_oak_desk_cabinet
+- cfm:stone_desk_cabinet
+- cfm:granite_desk_cabinet
+- cfm:diorite_desk_cabinet
+- cfm:andesite_desk_cabinet
+- cfm:stripped_oak_desk_cabinet
+- cfm:stripped_spruce_desk_cabinet
+- cfm:stripped_birch_desk_cabinet
+- cfm:stripped_jungle_desk_cabinet
+- cfm:stripped_acacia_desk_cabinet
+- cfm:stripped_dark_oak_desk_cabinet
+- cfm:oak_blinds
+- cfm:spruce_blinds
+- cfm:birch_blinds
+- cfm:jungle_blinds
+- cfm:acacia_blinds
+- cfm:dark_oak_blinds
+- cfm:stripped_oak_blinds
+- cfm:stripped_spruce_blinds
+- cfm:stripped_birch_blinds
+- cfm:stripped_jungle_blinds
+- cfm:stripped_acacia_blinds
+- cfm:stripped_dark_oak_blinds
+
+#extshape:concrete_vertical_quarter_pieces
+- extshape:white_concrete_vertical_quarter_piece
+- extshape:orange_concrete_vertical_quarter_piece
+- extshape:magenta_concrete_vertical_quarter_piece
+- extshape:light_blue_concrete_vertical_quarter_piece
+- extshape:yellow_concrete_vertical_quarter_piece
+- extshape:lime_concrete_vertical_quarter_piece
+- extshape:pink_concrete_vertical_quarter_piece
+- extshape:gray_concrete_vertical_quarter_piece
+- extshape:light_gray_concrete_vertical_quarter_piece
+- extshape:cyan_concrete_vertical_quarter_piece
+- extshape:purple_concrete_vertical_quarter_piece
+- extshape:blue_concrete_vertical_quarter_piece
+- extshape:brown_concrete_vertical_quarter_piece
+- extshape:green_concrete_vertical_quarter_piece
+- extshape:red_concrete_vertical_quarter_piece
+- extshape:black_concrete_vertical_quarter_piece
+
+#forge:dyes/brown
+- minecraft:brown_dye
+
+#forge:storage_blocks/gold
+- minecraft:gold_block
+
+#extshape:woolen_fence_gates
+- extshape:white_wool_fence_gate
+- extshape:orange_wool_fence_gate
+- extshape:magenta_wool_fence_gate
+- extshape:light_blue_wool_fence_gate
+- extshape:yellow_wool_fence_gate
+- extshape:lime_wool_fence_gate
+- extshape:pink_wool_fence_gate
+- extshape:gray_wool_fence_gate
+- extshape:light_gray_wool_fence_gate
+- extshape:cyan_wool_fence_gate
+- extshape:purple_wool_fence_gate
+- extshape:blue_wool_fence_gate
+- extshape:brown_wool_fence_gate
+- extshape:green_wool_fence_gate
+- extshape:red_wool_fence_gate
+- extshape:black_wool_fence_gate
+
+#minecraft:fence_gates
+- extshape:stone_fence_gate
+- extshape:granite_fence_gate
+- extshape:polished_granite_fence_gate
+- extshape:diorite_fence_gate
+- extshape:polished_diorite_fence_gate
+- extshape:andesite_fence_gate
+- extshape:polished_andesite_fence_gate
+- extshape:dirt_fence_gate
+- extshape:coarse_dirt_fence_gate
+- extshape:cobblestone_fence_gate
+- extshape:bedrock_fence_gate
+- extshape:lapis_fence_gate
+- extshape:smooth_sandstone_fence_gate
+- extshape:smooth_red_sandstone_fence_gate
+- extshape:gold_fence_gate
+- extshape:iron_fence_gate
+- extshape:brick_fence_gate
+- extshape:mossy_cobblestone_fence_gate
+- extshape:obsidian_fence_gate
+- extshape:diamond_fence_gate
+- extshape:snow_fence_gate
+- extshape:clay_fence_gate
+- extshape:pumpkin_fence_gate
+- extshape:netherrack_fence_gate
+- extshape:glowstone_fence_gate
+- extshape:stone_brick_fence_gate
+- extshape:mossy_stone_brick_fence_gate
+- extshape:chiseled_stone_brick_fence_gate
+- extshape:melon_fence_gate
+- extshape:nether_brick_fence_gate
+- extshape:end_stone_fence_gate
+- extshape:emerald_fence_gate
+- extshape:quartz_fence_gate
+- extshape:chiseled_quartz_fence_gate
+- extshape:quartz_brick_fence_gate
+- extshape:smooth_quartz_fence_gate
+- extshape:red_nether_brick_fence_gate
+- extshape:coal_fence_gate
+- extshape:packed_ice_fence_gate
+- extshape:prismarine_fence_gate
+- extshape:prismarine_brick_fence_gate
+- extshape:dark_prismarine_fence_gate
+- extshape:smooth_stone_fence_gate
+- extshape:purpur_fence_gate
+- extshape:nether_wart_fence_gate
+- extshape:warped_wart_fence_gate
+- extshape:shroomlight_fence_gate
+- extshape:honeycomb_fence_gate
+- extshape:netherite_fence_gate
+- extshape:ancient_debris_fence_gate
+- extshape:crying_obsidian_fence_gate
+- extshape:basalt_fence_gate
+- extshape:polished_basalt_fence_gate
+- #extshape:log_fence_gates
+- #extshape:woolen_fence_gates
+- #extshape:concrete_fence_gates
+- #extshape:terracotta_fence_gates
+
+#c:ender_pearls
+- #forge:ender_pearls
+
+#forge:ores
+- #forge:ores/coal
+- #forge:ores/diamond
+- #forge:ores/emerald
+- #forge:ores/gold
+- #forge:ores/iron
+- #forge:ores/lapis
+- #forge:ores/redstone
+- #forge:ores/quartz
+- #forge:ores/netherite_scrap
+- ars_nouveau:arcane_ore
+
+#minecraft:bee_growables
+- ars_nouveau:mana_bloom_crop
+- ars_nouveau:mana_bloom_crop
+
+#minecraft:wooden_pressure_plates
+- minecraft:oak_pressure_plate
+- minecraft:spruce_pressure_plate
+- minecraft:birch_pressure_plate
+- minecraft:jungle_pressure_plate
+- minecraft:acacia_pressure_plate
+- minecraft:dark_oak_pressure_plate
+- minecraft:crimson_pressure_plate
+- minecraft:warped_pressure_plate
+
+#minecraft:tall_flowers
+- minecraft:sunflower
+- minecraft:lilac
+- minecraft:peony
+- minecraft:rose_bush
+
+#forge:seeds/flax
+- supplementaries:flax_seeds
+
+#forge:rods/wooden
+- minecraft:stick
+
+#biomesoplenty:redwood_logs
+- decorative_blocks:redwood_beam
+
+#curios:curio
+- supplementaries:key
+
+#forge:dusts/prismarine
+- minecraft:prismarine_shard
+
+#c:cobblestone
+- #forge:cobblestone
+
+#biomesoplenty:jacaranda_logs
+- decorative_blocks:jacaranda_beam
+
+#forge:fences
+- #forge:fences/nether_brick
+- #forge:fences/wooden
+- ars_nouveau:archwood_fence
+
+#forge:doors
+- ars_nouveau:archwood_door
+
+#forge:bookshelves
+- minecraft:bookshelf
+
+#forge:storage_blocks/diamond
+- minecraft:diamond_block
+
+#extshape:wooden_blocks
+- #extshape:wooden_walls
+- #extshape:wooden_vertical_slabs
+- #extshape:wooden_quarter_pieces
+- #extshape:wooden_vertical_stairs
+- #extshape:wooden_vertical_quarter_pieces
+
+#minecraft:gold_ores
+- minecraft:gold_ore
+- minecraft:nether_gold_ore
+
+#forge:dyes
+- #forge:dyes/white
+- #forge:dyes/orange
+- #forge:dyes/magenta
+- #forge:dyes/light_blue
+- #forge:dyes/yellow
+- #forge:dyes/lime
+- #forge:dyes/pink
+- #forge:dyes/gray
+- #forge:dyes/light_gray
+- #forge:dyes/cyan
+- #forge:dyes/purple
+- #forge:dyes/blue
+- #forge:dyes/brown
+- #forge:dyes/green
+- #forge:dyes/red
+- #forge:dyes/black
+
+#ars_nouveau:sylph/denied_drop
+- minecraft:dirt
+- #forge:seeds
+
+#forge:glass_panes/pink
+- minecraft:pink_stained_glass_pane
+
+#extshape:terracotta_fence_gates
+- extshape:terracotta_fence_gate
+- #extshape:stained_terracotta_fence_gates
+
+#forge:netherrack
+- minecraft:netherrack

@@ -1,0 +1,22 @@
+{
+  "id": "World-Spawn_4510-21-2026",
+  "name": "World Spawn",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--1-waypoint-icon.png",
+  "x": 4510,
+  "y": 21,
+  "z": 2026,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

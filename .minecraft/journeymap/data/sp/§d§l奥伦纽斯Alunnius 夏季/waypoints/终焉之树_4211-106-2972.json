@@ -1,0 +1,22 @@
+{
+  "id": "终焉之树_4211-106-2972",
+  "name": "终焉之树",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--8224126-waypoint-icon.png",
+  "x": 4211,
+  "y": 106,
+  "z": 2972,
+  "r": 130,
+  "g": 130,
+  "b": 130,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

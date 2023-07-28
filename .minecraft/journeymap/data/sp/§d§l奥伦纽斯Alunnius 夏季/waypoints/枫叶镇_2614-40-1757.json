@@ -1,0 +1,22 @@
+{
+  "id": "枫叶镇_2614-40-1757",
+  "name": "枫叶镇",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--175352-waypoint-icon.png",
+  "x": 2614,
+  "y": 40,
+  "z": 1757,
+  "r": 253,
+  "g": 83,
+  "b": 8,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

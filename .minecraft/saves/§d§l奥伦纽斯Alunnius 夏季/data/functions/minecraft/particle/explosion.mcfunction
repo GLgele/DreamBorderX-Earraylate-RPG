@@ -1,0 +1,13 @@
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker1","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker2","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker3","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker4","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker5","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker6","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker7","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker8","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker9","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker10","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker11","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:7,Tags:["explosionMarker12","explosionMarker","explosionMarkerMove"]}
+summon area_effect_cloud ~ ~ ~ {Duration:60,Tags:["explosionMarker","explosionMarkerSmoke"]}

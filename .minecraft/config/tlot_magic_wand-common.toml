@@ -1,0 +1,44 @@
+
+#General settings
+[General]
+	#magic damage ratio(Only affect damage)(Affects all magic)
+	#Range: 0.0 ~ 1000.0
+	"magic damage ratio" = 1.0
+	#Are players allowed to use magic to destroy the landform
+	"can break landform" = false
+	#Whether players are allowed to hurt each other through magic
+	"damage between players" = true
+
+#Magic settings
+[Magic]
+	#magic damage ratio
+	#Range: 0.0 ~ 1000.0
+	"magic damage ratio(for level 4)" = 1.0
+	#magic damage ratio
+	#Range: 0.0 ~ 1000.0
+	"magic damage ratio(for level 5)" = 1.0
+	#magic damage ratio
+	#Range: 0.0 ~ 1000.0
+	"magic damage ratio(for level 2)" = 1.0
+	#magic cool down ratio
+	#Range: 0.0 ~ 1000.0
+	"magic cool down ratio(for level 3)" = 1.0
+	#magic damage ratio
+	#Range: 0.0 ~ 1000.0
+	"magic damage ratio(for level 3)" = 1.0
+	#magic cool down ratio
+	#Range: 0.0 ~ 1000.0
+	"magic cool down ratio(for level 2)" = 1.0
+	#magic cool down ratio
+	#Range: 0.0 ~ 1000.0
+	"magic cool down ratio(for level 1)" = 1.0
+	#magic damage ratio
+	#Range: 0.0 ~ 1000.0
+	"magic damage ratio(for level 1)" = 1.0
+	#magic cool down ratio
+	#Range: 0.0 ~ 1000.0
+	"magic cool down ratio(for level 5)" = 1.0
+	#magic cool down ratio
+	#Range: 0.0 ~ 1000.0
+	"magic cool down ratio(for level 4)" = 1.0
+

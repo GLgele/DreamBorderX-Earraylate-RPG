@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "attacked_by_zombie" :{
+            "trigger": "entity_hurt_player",
+            "conditions": {
+                "damage": {
+                    "source_entity": {
+                        "type": "minecraft:zombie",
+                        "nbt": "{Tags:[\"clay\"]}"
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "minecraft:attacked_by_zombie_clay"
+    }
+}

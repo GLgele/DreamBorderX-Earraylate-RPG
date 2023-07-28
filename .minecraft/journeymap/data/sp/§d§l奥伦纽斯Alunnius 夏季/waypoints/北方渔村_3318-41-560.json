@@ -1,0 +1,22 @@
+{
+  "id": "北方渔村_3318-41-560",
+  "name": "北方渔村",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16543026-waypoint-icon.png",
+  "x": 3318,
+  "y": 41,
+  "z": 560,
+  "r": 3,
+  "g": 146,
+  "b": 206,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

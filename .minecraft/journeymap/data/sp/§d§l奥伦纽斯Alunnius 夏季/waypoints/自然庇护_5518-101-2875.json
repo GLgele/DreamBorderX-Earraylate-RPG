@@ -1,0 +1,22 @@
+{
+  "id": "自然庇护_5518-101-2875",
+  "name": "自然庇护",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--16726531-waypoint-icon.png",
+  "x": 5518,
+  "y": 101,
+  "z": 2875,
+  "r": 0,
+  "g": 197,
+  "b": 253,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

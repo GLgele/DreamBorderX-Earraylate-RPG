@@ -1,0 +1,32 @@
+
+#Feature Settings
+[features]
+	#Whether or not the Spectrum Shield should be enabled.
+	spectrumShieldEnabled = true
+
+#Internal - Don't change manually
+[internal]
+	#Which tab the editor was last on.
+	#Range: 0 ~ 2
+	mainRightTab = 0
+	#Which style is currently being used.
+	#Range: 0 ~ 20
+	activeStyle = 0
+	#Which tab the editor was last on.
+	#Range: 0 ~ 2
+	mainLeftTab = 0
+
+#Creative Tab Settings
+[tabs]
+	#Whether or not the tab showing nearby blocks should be enabled.
+	nearbyBlocksTabEnabled = true
+	#The radius of the area the nearby blocks tab searches for blocks in.
+	#Range: 1 ~ 128
+	nearbyBlocksTabRadius = 16
+	#If the nearby blocks tab should add multiple stacks for blocks that occur more than 64 times, or limit at one stack.
+	nearbyBlocksTabMultipleStacks = false
+	#Whether or not the tab showing all loaded tileentities should be enabled.
+	loadedTileentitiesTabEnabled = true
+	#Whether or not the minecraft-heads Creative Tabs should be enabled.
+	headTabsEnabled = false
+

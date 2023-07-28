@@ -1,0 +1,22 @@
+{
+  "id": "达莫特之树_4563-63-2003",
+  "name": "达莫特之树",
+  "icon": "journeymap:ui/img/waypoint-icon.png",
+  "colorizedIcon": "fake:color--10047438-waypoint-icon.png",
+  "x": 4563,
+  "y": 63,
+  "z": 2003,
+  "r": 102,
+  "g": 176,
+  "b": 50,
+  "enable": false,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    "minecraft:overworld"
+  ],
+  "persistent": true,
+  "showDeviation": false,
+  "iconColor": -1,
+  "customIconColor": false
+}

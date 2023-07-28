@@ -1,0 +1,19 @@
+#Fri Jul 21 10:56:03 CST 2023
+handDepthMul=0.125
+TexMinFilB=0
+oldLighting=false
+TexMagFilN=0
+tweakBlockDamage=false
+cloudShadow=false
+TexMagFilS=0
+shaderPack=MakeUp-UltraFast-6.61L(zh-CN by xz_seer).zip
+TexMinFilN=0
+specularMapEnabled=true
+normalMapEnabled=true
+renderResMul=1.0
+oldHandLight=default
+TexMinFilS=0
+shadowResMul=1.0
+shadowClipFrustrum=true
+TexMagFilB=0
+antialiasingLevel=0

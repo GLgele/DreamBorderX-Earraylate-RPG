@@ -1,0 +1,41 @@
+{
+  "extshape:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_ingredient": "2023-07-19 12:37:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2023-07-20 19:08:34 +0800"
+    },
+    "done": true
+  },
+  "extshape:recipes/building_blocks/petrified_oak_slab": {
+    "criteria": {
+      "has_ingredient": "2023-07-19 12:37:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-07-20 19:21:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2023-07-19 12:37:30 +0800",
+      "minecraft:birch_forest": "2023-07-19 12:45:41 +0800",
+      "minecraft:plains": "2023-07-19 12:39:53 +0800"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2023-07-20 19:11:10 +0800"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

@@ -1,0 +1,16 @@
+execute @a ~ ~ ~ particle reddust ~0.5 ~ ~ 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~-0.5 ~ ~ 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~ ~ ~0.5 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~ ~ ~-0.5 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~0.354 ~ ~0.354 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~0.354 ~ ~-0.354 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~-0.354 ~ ~0.354 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~-0.354 ~ ~-0.354 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~0.191 ~ ~0.462 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~-0.191 ~ ~0.462 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~0.191 ~ ~-0.462 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~-0.191 ~ ~-0.462 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~0.462 ~ ~0.191 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~-0.462 ~ ~0.191 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~0.462 ~ ~-0.191 0.15 0.15 0.15 0
+execute @a ~ ~ ~ particle reddust ~-0.462 ~ ~-0.191 0.15 0.15 0.15 0
